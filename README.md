@@ -1,4 +1,4 @@
-# lifespan-development-4e
+# README
 This repository contains the source of Lifespan Development: A Psychological Perspective 4e book written by Martha Lally and Suzanne Valentine-French, and adapted by me (Nathalie Yuen). The book is built using Quarto.
 
 This textbook introduces the idea of lifespan development from a psychological perspective.

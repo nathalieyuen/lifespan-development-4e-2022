@@ -1,0 +1,1017 @@
+# Early Childhood
+
+## Prelude to Early Childhood
+
+Our discussion will now focus on the physical, cognitive and socioemotional development during the ages from two to six, referred to as early childhood. Early childhood represents a time period of continued rapid growth, especially in the areas of language and cognitive development. Those in early childhood have more control over their emotions and begin to pursue a variety of activities that reflect their personal interests. Parents continue to be very important in the child's development, but now teachers and peers exert an influence not seen with infants and toddlers.
+
+::: callout-note
+### Learning Objectives: Physical Development in Early Childhood
+
+-   Summarize the overall physical growth
+
+-   Describe the changes in brain maturation
+
+-   Describe the changes in sleep
+
+-   Summarize the changes in gross and motor skills
+
+-   Describe when a child is ready for toilet training
+
+-   Describe sexual development
+
+-   Identify nutritional concerns
+:::
+
+### Overall Physical Growth:
+
+Children between the ages of two and six years tend to grow about 3 inches in height and gain about 4 to 5 pounds in weight each year. Just as in infancy, growth occurs in spurts rather than continually. According to the Centers for Disease Control and Prevention (CDC, 2000) the average 2-year-old weighs between 23 and 28 pounds and stands between 33 and 35 inches tall. The average 6-year-old weighs between 40 and 50 pounds and is about 44 to 47 inches in height. The 3-year-old is still very similar to a toddler with a large head, large stomach, short arms and legs. By the time the child reaches age 6, however, the torso has lengthened, and body proportions have become more like those of adults.
+
+This growth rate is slower than that of infancy and is accompanied by a reduced appetite between the ages of 2 and 6 . This change can sometimes be surprising to parents and lead to the development of poor eating habits. However, children between the ages of 2 and 3 need 1,000 to 1,400 calories, while children between the ages of 4 and 8 need 1,200 to 2,000 calories (Mayo Clinic, 2016a).
+
+## Brain Maturation
+
+### Brain weight:
+
+The brain is about 75 percent of its adult weight by three years of age. By age 6, it is at 95 percent of its adult weight (Lenroot & Giedd, 2006). Myelination and the development of dendrites continue to occur in the cortex and as it does, we see a corresponding change in what the child is capable of doing. Greater development in the prefrontal cortex, the area of the brain behind the forehead that helps us to think, strategize, and control attention and emotion, makes it increasingly possible to inhibit emotional outbursts and understand how to play games. Understanding the game, thinking ahead, and coordinating movement improve with practice and myelination.
+
+### Growth in the Hemispheres and Corpus Callosum:
+
+Between ages 3 and 6, the left hemisphere of the brain grows dramatically. This side of the brain or hemisphere is typically involved in language skills. The right hemisphere continues to grow throughout early childhood and is involved in tasks that require spatial skills, such as recognizing shapes and patterns. The **corpus callosum**, *a dense band of fibers that connects the two hemispheres of the brain*, contains approximately 200 million nerve fibers that connect the hemispheres (Kolb & Whishaw, 2011). The corpus callosum is illustrated in @fig-04-hemispheres.
+
+![Corpus callosum. [Image](https://commons.wikimedia.org/wiki/File:Slide1oo.JPG "https://commons.wikimedia.org/wiki/File:Slide1oo.JPG") by [Anatomist90](https://commons.wikimedia.org/wiki/User:Anatomist90 "User:Anatomist90") is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en).](https://upload.wikimedia.org/wikipedia/commons/4/43/Slide1oo.JPG?20120420172303){#fig-04-hemispheres fig-alt="Horizontal cross-section of a brain, showing the left and right hemispheres and the fibrous carpus callosum connecting the hemispheres."}
+
+The corpus callosum is located a couple of inches below the longitudinal fissure, which runs the length of the brain and separates the two cerebral hemispheres (Garrett, 2015). Because the two hemispheres carry out different functions, they communicate with each other and integrate their activities through the corpus callosum. Additionally, because incoming information is directed toward one hemisphere, such as visual information from the left eye being directed to the right hemisphere, the corpus callosum shares this information with the other hemisphere.
+
+The corpus callosum undergoes a growth spurt between ages 3 and 6, and this results in improved coordination between right and left hemisphere tasks. For example, in comparison to other individuals, children younger than 6 demonstrate difficulty coordinating an Etch-A-Sketch toy because their corpus callosum is not developed enough to integrate the movements of both hands (Kalat, 2016).
+
+## Motor Skill Development
+
+Early childhood is the time period when most children acquire the basic skills for locomotion, such as running, jumping, and skipping, and object control skills, such as throwing, catching, and kicking (Clark, 1994). Children continue to improve their gross motor skills as they run and jump. Fine motor skills are also being refined in activities, such as pouring water into a container, drawing, coloring, and buttoning coats and using scissors. @tbl-04-motor-skills highlights some of the changes in motor skills during early childhood between 2 and 5 years of age. The development of greater coordination of muscles groups and finer precision can be seen during this time period. Thus, average 2-year-olds may be able to run with slightly better coordination than they managed as a toddler, yet they would have difficulty peddling a tricycle, something the typical 3-year-old can do. We see similar changes in fine motor skills with 4-year-olds who no longer struggle to put on their clothes, something they may have had problems with two years earlier. Motor skills continue to develop into middle childhood, but for those in early childhood, play that deliberately involves these skills is emphasized.
+
+![Children playing a game at a fair. [Image](https://commons.wikimedia.org/wiki/File:USAG_Bavaria_Kinderfest_2024_(8354040).jpg) by [Zoe Tourne](https://www.dvidshub.net/portfolio/1812238) is in the public domain.](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/USAG_Bavaria_Kinderfest_2024_%288354040%29.jpg/1600px-USAG_Bavaria_Kinderfest_2024_%288354040%29.jpg?20241021204533){#fig-04-fair fig-alt="A child plays a ball-throwing game at the American Red Cross booth during Kinderfest at Tower Barracks, Grafenwöhr, Germany, April 20, 2024."}
+
++-----------+------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
+| Age       | Gross Motor Skills                                                                                                                                   | Fine Motor Skills                                                                                                     |
++:==========+:=====================================================================================================================================================+:======================================================================================================================+
+| Age 2     | -   Can kick a ball without losing balance                                                                                                           | -   Able to turn a door knob                                                                                          |
+|           |                                                                                                                                                      |                                                                                                                       |
+|           | -   Can pick up objects while standing, without losing balance *(This often occurs by 15 months. It is a cause for concern if not seen by 2 years)*. | -   Can look through a book turning one page at a time                                                                |
+|           |                                                                                                                                                      |                                                                                                                       |
+|           | -   Can run with better coordination. *(May still have a wide stance)*.                                                                              | -   Can build a tower of 6 to 7 cubes                                                                                 |
+|           |                                                                                                                                                      |                                                                                                                       |
+|           |                                                                                                                                                      | -   Able to put on simple clothes without help *(The child is often better at removing clothe than putting them on)*. |
++-----------+------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
+| Age 3     | -   Can briefly balance and hop on one foot                                                                                                          | -   Can build a block tower of more than nine cubes                                                                   |
+|           |                                                                                                                                                      |                                                                                                                       |
+|           | -   May walk up stairs with alternating feet (without holding the rail)                                                                              | -   Can easily place small objects in a small opening                                                                 |
+|           |                                                                                                                                                      |                                                                                                                       |
+|           | -   Can pedal a tricycle                                                                                                                             | -   Can copy a circle                                                                                                 |
+|           |                                                                                                                                                      |                                                                                                                       |
+|           |                                                                                                                                                      | -   Can draw a person with 3 parts                                                                                    |
+|           |                                                                                                                                                      |                                                                                                                       |
+|           |                                                                                                                                                      | -   Can feed self easily                                                                                              |
++-----------+------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
+| Age 4     | -   Shows improved balance                                                                                                                           | -   Can cut out a picture using scissors                                                                              |
+|           |                                                                                                                                                      |                                                                                                                       |
+|           | -   Hops on one foot without losing balance                                                                                                          | -   Can draw a square                                                                                                 |
+|           |                                                                                                                                                      |                                                                                                                       |
+|           | -   Throws a ball overhand with coordination                                                                                                         | -   Manages a spoon and fork neatly while eating                                                                      |
+|           |                                                                                                                                                      |                                                                                                                       |
+|           |                                                                                                                                                      | -   Puts on clothes properly                                                                                          |
++-----------+------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
+| Age 5     | -   Has better coordination (getting the arms, legs, and body to work together)                                                                      | -   Shows more skill with simple tools and writing utensils                                                           |
+|           |                                                                                                                                                      |                                                                                                                       |
+|           | -   Skips, jumps, and hops with good balance                                                                                                         | -   Can copy a triangle                                                                                               |
+|           |                                                                                                                                                      |                                                                                                                       |
+|           | -   Stays balanced while standing on one foot with eyes closed                                                                                       | -   Can use a knife to spread soft foods                                                                              |
++-----------+------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
+
+: Changes in Gross and Fine Motor Skills in Early Childhood. Source: [NIH: US National Library of Medicine](https://www.nlm.nih.gov/medlineplus/ency/article/002456.htm "https://www.nlm.nih.gov/medlineplus/ency/article/002456.htm") {#tbl-04-motor-skills}
+
+#### Children's Art:
+
+Children's art highlights many developmental changes. Kellogg (1969) noted that children's drawings underwent several transformations. Starting with about 20 different types of scribbles at age 2, children move on to experimenting with the placement of scribbles on the page. By age 3 they are using the basic structure of scribbles to create shapes and are beginning to combine these shapes to create more complex images. By 4 or 5 children are creating images that are more recognizable representations of the world. These changes are a function of improvement in motor skills, perceptual development, and cognitive understanding of the world (Cote & Golbeck, 2007).
+
+The drawing of tadpoles (see @fig-04-art) is a pervasive feature of young children's drawings of self and others. Tadpoles emerge in children's drawing at about the age of 3 and have been observed in the drawings of young children around the world (Gernhardt, Rubeling & Keller, 2015), but there are cultural variations in the size, number of facial features, and emotional expressions displayed. Gernhardt et al. found that children from Western contexts (i.e., urban areas of Germany and Sweden) and urban educated non-Western contexts (i.e., urban areas of Turkey, Costa Rica and Estonia) drew larger images, with more facial detail and more positive emotional expressions, while those from non-Western rural contexts (i.e., rural areas of Cameroon and India) depicted themselves as smaller, with less facial details and a more neutral emotional expression. The authors suggest that cultural norms of non-Western traditionally rural cultures, which emphasize the social group rather than the individual, may be one of the factors for the smaller size of the figures compared to the larger figures from children in the Western cultures which emphasize the individual.
+
+![Tadpole-like figure drawn by a child aged 4.5 years. [Image](https://commons.wikimedia.org/wiki/File:Child_Art_Aged_4.5_Person_2.png) is licensed under [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5).](https://upload.wikimedia.org/wikipedia/commons/a/ad/Child_Art_Aged_4.5_Person_2.png?20050715061252){#fig-04-art fig-alt="A crayon line drawing by a child aged 4 and a half years, depicting a roughly hexagonal head containing eyes, a nose, and a smiling mouth. Two straight arms extend horizontally from the head, two straight legs extend below the head, and two curved antennae-like limbs extend from the top of the head. picture of a person, drawn by a 4.5 year old child"}
+
+## Toilet Training
+
+Toilet training typically occurs during the first two years of early childhood (24–36 months). Some children show interest by age 2, but others may not be ready until months later. The average age for girls to be toilet trained is 29 months and for boys it is 31 months, and 98% of children are trained by 36 months (Boyse & Fitzgerald, 2010). The child's age is not as important as his/her physical and emotional readiness. If started too early, it might take longer to train a child. If a child resists being trained, or it is not successful after a few weeks, it is best to take a break and try again later. Most children master daytime bladder control first, typically within two to three months of consistent toilet training. However, nap and nighttime training might take months or even years.
+
+![Young child toilet-training. [Source](https://farm1.static.flickr.com/8/19650368_ad5e5c496e.jpg).](https://farm1.static.flickr.com/8/19650368_ad5e5c496e.jpg){fig-alt="A young child sits on a toilet, reading a picture book."}
+
+According to the Mayo Clinic (2016b), the following questions can help parents determine if a child is ready for toilet training:
+
+-   Does your child seem interested in the potty chair or toilet, or in wearing underwear?
+
+-   Can your child understand and follow basic directions?
+
+-   Does your child complain about wet or dirty diapers?
+
+-   Does your child tell you through words, facial expressions or posture when he or she needs to go?
+
+-   Does your child stay dry for periods of two hours or longer during the day?
+
+-   Can your child pull down his or her pants and pull them up again?
+
+-   Can your child sit on and rise from a potty chair? (p. 1)
+
+Some children experience elimination disorders that may require intervention by the child's pediatrician or a trained mental health practitioner. Elimination disorders include **enuresis**, or *the repeated voiding of urine into bed or clothes (involuntary or intentional)*, and **encopresis**, *the repeated passage of feces into inappropriate places (involuntary or intentional)* (American Psychiatric Association, 2022). The prevalence of enuresis is five to ten percent for 5-year-olds, three to five percent for 10-year-olds and approximately one percent for those 15 years of age or older. Around one percent of 5-year-olds have encopresis, and it is more common in males than females.
+
+## Sleep
+
+During early childhood, there is wide variation in the number of hours of sleep recommended per day. For example, two-year-olds may still need 15-16 hours per day, while a six-year-old may only need 7-8 hours. The National Sleep Foundation's 2015 recommendations based on age are listed in @fig-04-nsf-sleep.
+
+![National Sleep Foundation recommended sleep durations. [Image](https://commons.wikimedia.org/wiki/File:NSF_Sleep_Duration_Recommendations_Chart.jpg "https://commons.wikimedia.org/wiki/File:NSF_Sleep_Duration_Recommendations_Chart.jpg") by [SleepNSF](https://commons.wikimedia.org/w/index.php?title=User:SleepNSF&action=edit&redlink=1 "User:SleepNSF (page does not exist)") is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en).](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/NSF_Sleep_Duration_Recommendations_Chart.jpg/1250px-NSF_Sleep_Duration_Recommendations_Chart.jpg?20191018151642){#fig-04-nsf-sleep fig-alt="Chart of daily sleep durations by age as recommended by the National Sleep Foundation. Recommended durations are 14 to 17 hours for newborns below 3 months, 12 to 15 hours for infants between 4 and 11 months, 11 to 14 hours for toddlers aged 1 and 2, 10 to 13 hours for pre-schoolers aged 3 to 5, 9 to 11 hours for schoolchildren aged 6 to 13, 8 to 10 hours for teens aged 14 to 17, 7 to 9 hours for young adults aged 18 to 25, 7 to 9 hours for adults aged 26 to 64, and 7 to 8 hours for older adults above age 64."}
+
+## Sexual Development
+
+Historically, children have been thought of as innocent or incapable of sexual arousal (Aries, 1962). Yet, the physical dimension of sexual arousal is present from birth. However, to associate the elements of seduction, power, love, or lust that is part of the adult meanings of sexuality would be inappropriate. Sexuality begins in childhood as a response to physical states and sensation and cannot be interpreted as similar to that of adults in any way (Carroll, 2007).
+
+### Infancy:
+
+Boys and girls are capable of erections and vaginal lubrication even before birth (Martinson, 1981). Arousal can signal overall physical contentment and stimulation that accompanies feeding or warmth. Infants begin to explore their bodies and touch their genitals as soon as they have the sufficient motor skills. This stimulation is for comfort or to relieve tension rather than to reach orgasm (Carroll, 2007).
+
+### Early Childhood:
+
+Self-stimulation is common in early childhood for both boys and girls. Curiosity about the body and about others' bodies is a natural part of early childhood as well. As children grow, they are more likely to show their genitals to siblings or peers, and to take off their clothes and touch each other (Okami, Olmstead, & Abramson, 1997). Masturbation is common for both boys and girls. Boys are often shown by other boys how to masturbate, but girls tend to find out accidentally. Additionally, boys masturbate more often and touch themselves more openly than do girls (Schwartz, 1999).
+
+Hopefully, parents respond to this without undue alarm and without making the child feel guilty about their bodies. Instead, messages about what is going on and the appropriate time and place for such activities help the child learn what is appropriate.
+
+## Nutritional Concerns
+
+In addition to those in early childhood having a smaller appetite, their parents may notice a general reticence to try new foods, or a preference for certain foods, often served or eaten in a particular way. Some of these changes can be traced back to the "just right" (or just-so) phenomenon that is common in early childhood. Many young children desire consistency and may be upset if there are even slight changes to their daily routines. They may like to line up their toys or other objects or place them in symmetric patterns. They may arrange the objects until they feel "just right". Many young children have a set bedtime ritual and a strong preference for certain clothes, toys or games. All these tendencies tend to wane as children approach middle childhood, and the familiarity of such ritualistic behaviors seem to bring a sense of security and general reduction in childhood fears and anxiety (Evans et al., 1999; Evans & Leckman, 2015).
+
+![Nutritious lunch. [Image source.](https://c2.staticflickr.com/2/1462/25684459650_a92a7f6a16_b.jpg "https://c2.staticflickr.com/2/1462/25684459650_a92a7f6a16_b.jpg")](https://c2.staticflickr.com/2/1462/25684459650_a92a7f6a16_b.jpg){#fig-04-lunch fig-alt="Three young children in a classroom setting, eating a meal that consists of rice, vegetables, fried chicken, and bread."}
+
+Malnutrition due to insufficient food is not common in developed nations, like the United States, yet many children lack a balanced diet. Added sugars and solid fats contribute to 40% of daily calories for children and teens in the US. Approximately half of these empty calories come from six sources: soda, fruit drinks, dairy desserts, grain desserts, pizza, and whole milk (CDC, 2015). Caregivers need to keep in mind that they are setting up taste preferences at this age. Young children who grow accustomed to high fat, very sweet and salty flavors may have trouble eating foods that have subtler flavors, such as fruits and vegetables. Consider the following advice (See Note ) about establishing eating patterns for years to come (Rice, 1997). Notice that keeping mealtime pleasant, providing sound nutrition and not engaging in power struggles over food are the main goals.
+
+::: callout-note
+### Tips for Establishing Healthy Eating Patterns
+
+**Recognize that appetite varies.** Children may eat well at one meal and have no appetite at another. Rather than seeing this as a problem, it may help to realize that appetites do vary. Continue to provide good nutrition, but do not worry excessively if the child does not eat at a particular meal.
+
+**Keep it pleasant.** This tip is designed to help caregivers create a positive atmosphere during mealtime. Mealtimes should not be the time for arguments or expressing tensions. You do not want the child to have painful memories of mealtimes together or have nervous stomachs and problems eating and digesting food due to stress.
+
+**No short order chefs.** While it is fine to prepare foods that children enjoy, preparing a different meal for each child or family member sets up an unrealistic expectation from others. Children probably do best when they are hungry, and a meal is ready. Limiting snacks rather than allowing children to "graze" can help create an appetite for what is being served.
+
+**Limit choices.** If you give your young child choices, make sure that you give them one or two specific choices rather than asking "What would you like for lunch?” If given an open choice, children may change their minds or ask for something that is not available or appropriate.
+
+**Serve balanced meals.** This tip encourages caregivers to serve balanced meals. A box of macaroni and cheese is not a balanced meal. Meals prepared at home tend to have better nutritional value than fast food or frozen dinners. Prepared foods tend to be higher in fat and sugar content, as these ingredients enhance taste and profit margin because fresh food is often costlier and less profitable. However, preparing fresh food at home is not costly. It does, however, require more activity. Preparing meals and including the children in kitchen chores can provide a fun and memorable experience.
+
+**Do not bribe.** Bribing a child to eat vegetables by promising desert is not a good idea. The child will likely find a way to get the desert without eating the vegetables (by whining or fidgeting, perhaps, until the caregiver gives in). In addition, bribery teaches the child that some foods are better than others. Children tend to naturally enjoy a variety of foods until they are taught that some are considered less desirable than others. Most important is not to force your child to eat or fight over eating food.
+:::
+
+## Cognitive Development in Early Childhood
+
+::: callout-tip
+### Learning Objectives: Cognitive Development in Early Childhood
+
+-   Describe Piaget's preoperational stage and the characteristics of preoperational thought
+
+-   Summarize the challenges to Piaget's theory
+
+-   Describe Vygotsky's theory of cognitive development
+
+-   Describe Information processing research on attention and memory
+
+-   Describe the views of the neo-Piagetians
+
+-   Describe theory-theory and the development of theory of mind
+
+-   Describe the developmental changes in language
+
+-   Describe the various types of early childhood education
+
+-   Describe the characteristics of autism
+:::
+
+Early childhood is a time of pretending, blending fact and fiction, and learning to think of the world using language. As young children move away from needing to touch, feel, and hear about the world, they begin learning basic principles about how the world works. Concepts such as tomorrow, time, size, distance and fact vs. fiction are not easy to grasp at this age, but these tasks are all part of cognitive development during early childhood.
+
+### Piaget's Preoperational Stage
+
+Piaget's stage that coincides with early childhood is the **preoperational stage**. According to Piaget, this stage occurs from the age of 2 to 7 years. In the preoperational stage, *children use symbols to represent words, images, and ideas*, which is why children in this stage engage in pretend play. A child's arms might become airplane wings as she zooms around the room, or a child with a stick might become a brave knight with a sword. Children also begin to use language in the preoperational stage, but they cannot understand adult logic or mentally manipulate information. The term **operational** *refers to logical manipulation of information*, so children at this stage are considered pre-operational. Children's logic is based on their own personal knowledge of the world so far, rather than on conventional knowledge.
+
+The preoperational period is divided into two stages: The **symbolic function substage** occurs between 2 and 4 years of age and *is characterized by the child being able to mentally represent an object that is not present and a dependence on perception in problem solving*. The **intuitive thought substage**, lasting from 4 to 7 years, *is marked by greater dependence on intuitive thinking rather than just perception* (Thomas, 1979). This implies that children think automatically without using evidence. At this stage, children ask many questions as they attempt to understand the world around them using immature reasoning. Let us examine some of Piaget's assertions about children's cognitive abilities at this age.
+
+![[Image source](https://www.boredpanda.com/thula-therapy-cat-autistic-artist-iris-grace/ "https://www.boredpanda.com/thula-therapy-cat-autistic-artist-iris-grace/").](https://static.boredpanda.com/blog/wp-content/uploads/2014/10/thula-therapy-cat-autistic-artist-iris-grace-29.jpg){#fig-04-pretend fig-alt="In one photo, a young girl pretends to sing into a microphone, while accompanied by her cat. In a second photo, the same girl plays with modeling clay, again accompanied by her cat."}
+
+#### Pretend Play:
+
+Pretending is a favorite activity at this time. A toy has qualities beyond the way it was designed to function and can now be used to stand for a character or object unlike anything originally intended. A teddy bear, for example, can be a baby or the queen of a faraway land. Piaget believed that children's pretend play helped children solidify new schemata they were developing cognitively. This play, then, reflected changes in their conceptions or thoughts. However, children also learn as they pretend and experiment. Their play does not simply represent what they have learned (Berk, 2007).
+
+#### Egocentrism:
+
+**Egocentrism** in early childhood *refers to the tendency of young children not to be able to take the perspective of others, and instead the child thinks that everyone sees, thinks, and feels just as they do*. Egocentric children are not able to infer the perspective of other people and instead attribute their own perspective to situations. For example, ten-year-old Keiko's birthday is coming up, so her mom takes 3-year-old Kenny to the toy store to choose a present for his sister. He selects an Iron Man action figure for her, thinking that if he likes the toy, his sister will too.
+
+Piaget's classic experiment on egocentrism involved showing children a three-dimensional model of a mountain and asking them to describe what a doll that is looking at the mountain from a different angle might see (see @fig-04-mountain). Children tend to choose a picture that represents their own, rather than the doll's, view. By age 7 children are less self-centered. However, even younger children when speaking to others tend to use different sentence structures and vocabulary when addressing a younger child or an older adult. This indicates some awareness of the views of others.
+
+!["What does Dolly see?" [Image source](https://c2.staticflickr.com/4/3878/14457048196_be28bebd62_b.jpg "https://c2.staticflickr.com/4/3878/14457048196_be28bebd62_b.jpg").](https://c2.staticflickr.com/4/3878/14457048196_be28bebd62_b.jpg){#fig-04-mountain fig-alt="A diorama representing a mountain has a young child observing it while standing on one side. On the oppsite side of the diorama, a doll sits and faces the diorama."}
+
+#### Conservation Errors:
+
+**Conservation** *refers to the ability to recognize that moving or rearranging matter does not change the quantity*. Using Kenny and Keiko again, Dad gave a slice of pizza to 10-year-old Keiko and another slice to 3-year-old Kenny. Kenny's pizza slice was cut into five pieces, so Kenny told his sister that he got more pizza than she did. Kenny did not understand that cutting the pizza into smaller pieces did not increase the overall amount. This was because Kenny exhibited **centration**, or *focused on only one characteristic of an object to the exclusion of others*. Kenny focused on the five pieces of pizza to his sister's one piece even though the total amount was the same. Keiko was able to consider several characteristics of an object than just one. Because children have not developed this understanding of conservation, they cannot perform mental operations.
+
+The classic Piagetian experiment associated with conservation involves liquid (Crain, 2005). As seen in @fig-04-conservation, the child is shown two glasses (as shown in a) which are filled to the same level and asked if they have the same amount. Usually the child agrees they have the same amount. The experimenter then pours the liquid in one glass to a taller and thinner glass (as shown in b). The child is again asked if the two glasses have the same amount of liquid. The preoperational child will typically say the taller glass now has more liquid because it is taller (as shown in c). The child has centrated on the height of the glass and fails to conserve.
+
+![Conservation of Liquid. Does pouring liquid in a tall, narrow container make it have more? [Image source](https://www.sciencedirect.com/science/article/pii/S2214804320306959 "https://www.sciencedirect.com/science/article/pii/S2214804320306959").](https://socialsci.libretexts.org/@api/deki/files/126270/Screenshot_2023-08-18_203343.png?revision=1){#fig-04-conservation fig-alt="In figure a, two identical containers each hold the same amount of liquid. In figure b, the contents of one of those containers is poured into a taller, thinner container. In figure c, the new container and the undisturbed container from figure a are placed side by side."}
+
+#### Classification Errors:
+
+Preoperational children have difficulty understanding that an object can be classified in more than one way. For example, if shown three white buttons and four black buttons and asked whether there are more black buttons or buttons, the child is likely to respond that there are more black buttons. They do not consider the general class of buttons. Because young children lack these general classes, their reasoning is typically **transductive**, that is, *making faulty inferences from one specific example to another*. For example, Piaget's daughter Lucienne stated she had not had her nap, therefore it was not afternoon. She did not understand that afternoons are a time period and her nap was just one of many events that occurred in the afternoon (Crain, 2005). As the child's vocabulary improves and more schemata are developed, the ability to classify objects improves.
+
+#### Animism:
+
+**Animism** *refers to attributing life-like qualities to objects*. The cup is alive, the chair that falls down and hits the child's ankle is mean, and the toys need to stay home because they are tired. Cartoons frequently show objects that appear alive and take on lifelike qualities. Young children do seem to think that objects that move may be alive, but after age three, they seldom refer to objects as being alive (Berk, 2007).
+
+### Critique of Piaget:
+
+Similar to the critique of the sensorimotor period, several psychologists have attempted to show that Piaget also underestimated the intellectual capabilities of the preoperational child. For example, children's specific experiences can influence when they are able to conserve. Children of pottery makers in Mexican villages know that reshaping clay does not change the amount of clay at much younger ages than children who do not have similar experiences (Price-Williams et al., 1969). Crain (2005) indicated that preoperational children can think rationally on mathematical and scientific tasks, and they are not as egocentric as Piaget implied. Research on Theory of Mind (discussed later in the chapter) has demonstrated that children overcome egocentrism by 4 or 5 years of age, which is sooner than Piaget indicated.
+
+## Vygotsky’s Sociocultural Theory of Cognitive Development
+
+![Lev Vygotsky. [Image source](https://en.wikipedia.org/wiki/File:Lev_Vygotsky.jpg "https://en.Wikipedia.org/wiki/File:Lev_Vygotsky.jpg").](https://upload.wikimedia.org/wikipedia/en/7/7e/Lev_Vygotsky.jpg?20170201184156){#fig-04-vygotsky fig-alt="Black-and-white photograph of Lev Vygotsky."}
+
+Lev Vygotsky (1896-1934) was a Russian psychologist who argued that culture has a major impact on a child's cognitive development. Piaget and Gesell believed development stemmed directly from the child, and although Vygotsky acknowledged intrinsic development, he argued that it is the language, writings, and concepts arising from the culture that elicit the highest level of cognitive thinking (Crain, 2005). He believed that the social interactions with adults and more learned peers can facilitate a child's potential for learning. Without this interpersonal instruction, he believed children's minds would not advance very far as their knowledge would be based only on their own discoveries. Some of Vygotsky's key concepts are described below.
+
+### Zone of Proximal Development and Scaffolding:
+
+Vygotsky's best-known concept is the **zone of proximal development (ZPD)**. Vygotsky stated that children should be taught in the ZPD, *which occurs when they can almost perform a task, but not quite on their own without assistance*. With the right kind of teaching, however, they can accomplish it successfully. A good teacher identifies a child's ZPD and helps the child stretch beyond it. Then the adult (teacher) gradually withdraws support until the child can then perform the task unaided. Researchers have applied the metaphor of scaffolds (the temporary platforms on which construction workers stand) to this way of teaching. **Scaffolding** *is the temporary support that parents or teachers give a child to do a task*.
+
+### Private Speech:
+
+Do you ever talk to yourself? Why? Chances are, this occurs when you are struggling with a problem, trying to remember something, or feel very emotional about a situation. Children talk to themselves too. Piaget interpreted this as **egocentric speech**, or *speech that is focused on the child and does not include another's point of view*. Vygotsky, however, believed that children talk to themselves in order to solve problems or clarify thoughts. As children learn to think in words, they do so aloud before eventually closing their lips and engaging in **private speech** or *inner speech*.
+
+![Children talk to themselves to better problem solve. [Image](https://pixabay.com/p-933644/?no_redirect "https://pixabay.com/p-933644/?no_redirect") by [tookapic](https://pixabay.com/users/tookapic-1386459/).](https://cdn.pixabay.com/photo/2015/09/09/21/58/girl-933644_1280.jpg){fig-alt="A young girl is photographed with partly open lips, and appears to be talking or singing to herself."}
+
+Thinking out loud eventually becomes thought accompanied by internal speech and talking to oneself becomes a practice only engaged in when we are trying to learn something or remember something. This inner speech is not as elaborate as the speech we use when communicating with others (Vygotsky, 1962).
+
+### Contrast with Piaget:
+
+Piaget was highly critical of teacher-directed instruction believing that teachers who take control of the child's learning place the child into a passive role (Crain, 2005). Further, teachers may present abstract ideas without the child's true understanding, and instead they just repeat back what they heard. Piaget believed children must be given opportunities to discover concepts on their own. As previously stated, Vygotsky did not believe children could reach a higher cognitive level without instruction from more learned individuals. Who is correct? Both theories certainly contribute to our understanding of how children learn.
+
+## Information Processing
+
+Information processing researchers have focused on several issues in cognitive development for this age group, including improvements in attention skills, changes in the capacity and the emergence of executive functions in working memory. Additionally, in early childhood memory strategies, memory accuracy, and autobiographical memory emerge. Early childhood is seen by many researchers as a crucial time period in memory development (Posner & Rothbart, 2007).
+
+### Attention
+
+Changes in attention have been described by many as the key to changes in human memory (Nelson & Fivush, 2004; Posner & Rothbart, 2007). However, attention is not a unified function; it is comprised of sub-processes. *The ability to switch our focus between tasks or external stimuli* is called **divided attention** or **multitasking**. This is separate from *our ability to focus on a single task or stimulus, while ignoring distracting information*, called **selective attention**. Different from these is **sustained attention**, or *the ability to stay on task for long periods of time*. Moreover, we also have attention processes that influence our behavior and enable us to inhibit a habitual or dominant response, and others that enable us to distract ourselves when upset or frustrated.
+
+![These children will experience difficulty focusing on anything except playing. [Image](https://commons.wikimedia.org/wiki/File:Children_marbles.jpg "https://commons.wikimedia.org/wiki/File:Children_marbles.jpg") by [Tup Wanders](https://web.archive.org/web/20210224154436/https://www.flickr.com/photos/tupwanders/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en).](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Children_marbles.jpg/1149px-Children_marbles.jpg?20060203181041){#fig-04-marbles fig-alt="Three children sit on the ground, playing marbles."}
+
+#### Divided Attention:
+
+Young children (age 3–4) have considerable difficulties in dividing their attention between two tasks, and often perform at levels equivalent to our closest relative, the chimpanzee, but by age five they have surpassed the chimp (Hermann et al., 2015; Hermann & Tomasello, 2015). Despite these improvements, 5-year-olds continue to perform below the level of school-age children, adolescents, and adults.
+
+#### Selective Attention:
+
+Children's ability to perform selective attention tasks improve as they age. However, this ability is also greatly influenced by the child's temperament (Rothbart & Rueda, 2005), the complexity of the stimulus or task (Porporino et al., 2004), and along with whether the stimuli are visual or auditory (Guy et al., 2013). Guy et al. found that children's ability to selectively attend to visual information outpaced that of auditory stimuli. This may explain why young children are not able to hear the voice of the teacher over the cacophony of sounds in the typical preschool classroom (Jones et al., 2015). Jones and his colleagues found that 4- to 7-year-olds could not filter out background noise, especially when its frequencies were close in sound to the target sound. In comparison, older children at ages 8 to 11 often performed similarly to adults.
+
+#### Sustained Attention:
+
+Most measures of sustained attention typically ask children to spend several minutes focusing on one task, while waiting for an infrequent event, while there are multiple distractors for several minutes. Berwid et al. (2005) asked children between the ages of 3 and 7 to push a button whenever a "target" image was displayed, but they had to refrain from pushing the button when a non-target image was shown. The younger the child, the more difficulty he or she had maintaining their attention.
+
+### Memory
+
+Based on studies of adults, people with amnesia, and neurological research on memory, researchers have proposed several "types" of memory (see @fig-04-memory). **Sensory memory** (also called the **sensory register**) *is the first stage of the memory system, and it stores sensory input in its raw form for a very brief duration; essentially long enough for the brain to register and start processing the information*. Studies of auditory sensory memory have found that the sensory memory trace for the characteristics of a tone last about one second in 2-year-olds, two seconds in 3-year-olds, more than two seconds in 4-year-olds and three to five seconds in 6-year-olds (Glass et al., 2008). Other researchers have found that young children hold sounds for a shorter duration than do older children and adults, and that this deficit is not due to attentional differences between these age groups but reflect differences in the performance of the sensory memory system (Gomes et al., 1999).
+
+![Memory can be characterized in terms of stages—the length of time that information remains available to us. Image source: Adapted from Atkinson, R. C., & Shiffrin, R. M. (1968). Human memory: A proposed system and its control processes. In K. Spence (Ed.). *The psychology of learning and motivation* (Vol. 2). Oxford, England: Academic Press.](https://socialsci.libretexts.org/@api/deki/files/126271/Screenshot_2023-08-18_211521.png?revision=1){#fig-04-memory fig-alt="Diagram of the stages of memory. Sensory input enters sensory memory, from which unattended information is lost but attended information passes into short-term memory. Unrehearsed information from short-term memory is lost, but maintenance rehearsal of information in the short-term memory keeps it from being lost. Information in the short-term memory can be encoded into long-term memory, where some information may be lost over time. Retrieval of information from the long-term memory brings it back into short-term memory."}
+
+The second stage of the memory system is called **short-term** or **working memory**. Working memory is *the component of memory in which current conscious mental activity occurs*. Working memory often requires conscious effort and adequate use of attention to function effectively. As you read earlier, children in this age group struggle with many aspects of attention, and this greatly diminishes their ability to consciously juggle several pieces of information in memory. The capacity of working memory, that is the amount of information someone can hold in consciousness, is smaller in young children than in older children and adults (Galotti, 2018). The typical adult and teenager can hold a 7-digit number active in their short-term memory. The typical 5-year-old can hold only a 4-digit number active. This means that the more complex a mental task is, the less efficient a younger child will be in paying attention to, and actively processing, information in order to complete the task.
+
+Changes in attention and the working memory system also involve changes in executive function. **Executive function (EF)** *refers to self-regulatory processes*, such as the ability to inhibit a behavior or cognitive flexibility, *that enable adaptive responses to new situations or to reach a specific goal*. Executive function skills gradually emerge during early childhood and continue to develop throughout childhood and adolescence. Like many cognitive changes, brain maturation, especially the prefrontal cortex, along with experience influence the development of executive function skills. Children show higher executive function skills when parents are warm and responsive, use scaffolding when the child is trying to solve a problem, and provide cognitively stimulating environments (Fay-Stammbach et al., 2014). For instance, scaffolding was positively correlated with greater cognitive flexibility at age two and inhibitory control at age four (Bibok et al., 2009).
+
+Older children and adults use mental strategies to aid their memory performance. For instance, simple rote rehearsal may be used to commit information to memory. Young children often do not rehearse unless reminded to do so, and when they do rehearse, they often fail to use clustering rehearsal. In **clustering rehearsal**, *the person rehearses previous material while adding in additional information*. If a list of words is read out loud to you, you are likely to rehearse each word as you hear it along with any previous words you were given. Young children will repeat each word they hear, but often fail to repeat the prior words in the list. In a longitudinal study of 102 kindergarten children by Schneider et al. (2009), the majority of children used no strategy to remember information, a finding that was consistent with previous research. As a result, their memory performance was poor when compared to their abilities as they aged and started to use more effective memory strategies.
+
+The third component in memory is **long-term memory**, *which is also known as permanent memory*. A basic division of long-term memory is between declarative and non-declarative memory. **Declarative memories**, sometimes referred to as **explicit memories**, *are memories for facts or events that we can consciously recollect.* **Non-declarative memories**, sometimes referred to as **implicit memories**, *are typically automated skills that do not require conscious recollection*. Remembering that you have an exam next week would be an example of a declarative memory. In contrast, knowing how to walk so you can get to the classroom or how to hold a pencil to write would be examples of non-declarative memories. Declarative memory is further divided into semantic and episodic memory. **Semantic memories** *are memories for facts and knowledge that are not tied to a timeline*, while **episodic memories** *are tied to specific events in time*.
+
+![How long will these children remember their trip to Disneyland? [Image](https://www.flickr.com/photos/robdebsgreen/2117148847/in/photostream/) by [robdebsgreen](https://www.flickr.com/photos/robdebsgreen/ "Go to robdebsgreen’s photostream") is licensed under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en).](https://live.staticflickr.com/2385/2117148847_688d9f420e_b.jpg){#fig-04-disney fig-alt="Two children spontaneously hold hands and joyfully skip down Main Street at Disneyland to the music"}
+
+A component of episodic memory is **autobiographical memory**, or *our personal narrative*. As you may recall in [Chapter 3](https://socialsci.libretexts.org/Bookshelves/Human_Development/Lifespan_Development%3A_A_Psychological_Perspective_4e_(Lally_and_Valentine-French)/03%3A_Infancy_and_Toddlerhood/3.07%3A_Infant_Memory "3.7: Infant Memory"), the concept of infantile amnesia was introduced. Adults rarely remember events from the first few years of life. In other words, we lack autobiographical memories from our experiences as an infant, toddler and very young preschooler. Several factors contribute to the emergence of autobiographical memory, including brain maturation, improvements in language, opportunities to talk about experiences with parents and others, the development of theory of mind, and a representation of "self" (Nelson & Fivush, 2004). Two-year-olds do remember fragments of personal experiences, but these are rarely coherent accounts of past events (Nelson & Ross, 1980). Between and years of age children can provide more information about past experiences. However, these recollections require considerable prodding by adults (Nelson & Fivush, 2004). Over the next few years, children will form more detailed autobiographical memories and engage in more reflection of the past.
+
+### Neo-Piagetians
+
+As previously discussed, Piaget's theory has been criticized on many fronts, and updates to reflect more current research have been provided by the **Neo-Piagetians**, or *those theorists who provide "new" interpretations of Piaget's theory*. Morra et al. (2008) reviewed Neo-Piagetian theories, which were first presented in the 1970s, and identified how these "new" theories combined Piagetian concepts with those found in Information Processing. Similar to Piaget's theory, Neo-Piagetian theories believe in constructivism, assume cognitive development can be separated into different stages with qualitatively different characteristics, and advocate that children's thinking becomes more complex in advanced stages. Unlike Piaget, Neo-Piagetians believe that aspects of information processing change the complexity of each stage, not logic as determined by Piaget.
+
+Neo-Piagetians propose that working memory capacity is affected by biological maturation, and therefore restricts young children's ability to acquire complex thinking and reasoning skills. Increases in working memory performance and cognitive skills development coincide with the timing of several neurodevelopmental processes. These include myelination, axonal and synaptic pruning, changes in cerebral metabolism, and changes in brain activity (Morra et al., 2008). Myelination especially occurs in waves between birth and adolescence, and the degree of myelination in particular areas explains the increasing efficiency of certain skills. Therefore, brain maturation, which occurs in spurts, affects how and when cognitive skills develop. Additionally, all Neo-Piagetian theories support that experience and learning interact with biological maturation in shaping cognitive development.
+
+## Children's Understanding of the World
+
+Both Piaget and Vygotsky believed that *children actively try to understand the world around them*, referred to as **constructivism**. However, Piaget is identified as a **cognitive constructivist**, *which focuses on independent learning*, while Vygotsky is a **social constructivist** *relying on social interactions for learning*. More recently developmentalists have added to this understanding by examining how children organize information and develop their own theories about the world.
+
+**Theory-Theory** is *the tendency of children to generate theories to explain everything they encounter.* This concept implies that humans are naturally inclined to find reasons and generate explanations for why things occur. Children frequently ask question about what they see or hear around them. When the answers provided do not satisfy their curiosity or are too complicated for them to understand, they generate their own theories. In much the same way that scientists construct and revise their theories, children do the same with their intuitions about the world as they encounter new experiences (Gopnik & Wellman, 2012). One of the theories they start to generate in early childhood centers on the mental states; both their own and those of others.
+
+![Children make theories about the world and revise them. [Image](https://pixabay.com/p-1563182/?no_redirect "https://pixabay.com/p-1563182/?no_redirect") by [clicjeroen](https://pixabay.com/users/clicjeroen-3002008/).](https://cdn.pixabay.com/photo/2016/08/02/11/52/butterfly-1563182_1280.jpg){#fig-04-butterfly fig-alt="A young child in a meadow holds a white butterfly."}
+
+**Theory of mind** refers to *the ability to think about other people's thoughts*. This mental mind reading helps humans to understand and predict the reactions of others, thus playing a crucial role in social development. One common method for determining if a child has reached this mental milestone is the false belief task. The research began with a clever experiment by Wimmer and Perner (1983), who tested whether children can pass a false-belief test (see @fig-04-sally-anne). The child is shown a picture story of Sally, who puts her ball in a basket and leaves the room. While Sally is out of the room, Anne comes along and takes the ball from the basket and puts it inside a box. The child is then asked where Sally thinks the ball is located when she comes back to the room. Is she going to look first in the box or in the basket? The right answer is that she will look in the basket, because that is where she put it and thinks it is; but we have to infer this false belief against our own better knowledge that the ball is in the box. This is very difficult for children before the age of four because of the cognitive effort it takes. Three-year-olds have difficulty distinguishing between what they once thought was true and what they now know to be true. They feel confident that what they know now is what they have always known (Birch & Bloom, 2003). Even adults need to think through this task (Epley et al., 2004). To be successful at solving this type of task the child must separate what he or she "knows" to be true from what someone else might "think" is true.
+
+![False-belief test. [Image source](https://nobaproject.com/modules/theory-of-mind "https://nobaproject.com/modules/theory-of-mind").](https://nobaproject.com/images/shared/images/000/000/180/original.png){#fig-04-sally-anne fig-alt="The Sally-Anne task as described in the preceding paragraphs."}
+
+In Piagetian terms, children must give up a tendency toward egocentrism. The child must also understand that what guides people's actions and responses are what they believe rather than what is reality. In other words, people can mistakenly believe things that are false and will act based on this false knowledge. Consequently, prior to age four children are rarely successful at solving such a task (Wellman et al., 2001).
+
+Researchers examining the development of theory of mind have been concerned by the overemphasis on the mastery of false belief as the primary measure of whether a child has attained theory of mind. Two-year-olds understand the diversity of desires, yet as noted earlier it is not until age four or five that children grasp false belief, and often not until middle childhood do they understand that people may hide how they really feel, in part because children in early childhood have difficulty hiding how they really feel. Wellman and his colleagues (Wellman et al., 2006) suggest that theory of mind is comprised of a number of components, each with its own developmental timeline (see @tbl-04-theory-of-mind).
+
++----------------------------------------+------------------------------------------------------------------------------------+
+| Component                              | Description                                                                        |
++========================================+====================================================================================+
+| Diverse-desires                        | Understanding that two people may have different desire regarding the same object. |
++----------------------------------------+------------------------------------------------------------------------------------+
+| Diverse-belief                         | Understanding that two people may hold different beliefs about an object.          |
++----------------------------------------+------------------------------------------------------------------------------------+
+| Knowledge access (knowledge/ignorance) | Understanding that people may or may not have access to information.               |
++----------------------------------------+------------------------------------------------------------------------------------+
+| False belief                           | Understanding that someone might hold a belief based on false information.         |
++----------------------------------------+------------------------------------------------------------------------------------+
+| Hidden emotion                         | Understanding that people may not always express their true emotions.              |
++----------------------------------------+------------------------------------------------------------------------------------+
+
+: Components of Theory of Mind. {#tbl-04-theory-of-mind}
+
+Those in early childhood in the US, Australia, and Germany develop theory of mind in the sequence outlined in @tbl-04-theory-of-mind. Yet, Chinese and Iranian preschoolers acquire knowledge access before diverse beliefs (Shahaeian et al., 2011). Shahaeian and colleagues suggested that cultural differences in child-rearing may account for this reversal. Parents in collectivistic cultures, such as China and Iran, emphasize conformity to the family and cultural values, greater respect for elders, and the acquisition of knowledge and academic skills more than they do autonomy and social skills (Frank et al., 2010). This could reduce the degree of familial conflict of opinions expressed in the family. In contrast, individualistic cultures encourage children to think for themselves and assert their own opinion, and this could increase the risk of conflict in beliefs being expressed by family members. As a result, children in individualistic cultures would acquire insight into the question of diversity of belief earlier, while children in collectivistic cultures would acquire knowledge access earlier in the sequence. The role of conflict in aiding the development of theory of mind may account for the earlier age of onset of an understanding of false belief in children with siblings, especially older siblings (McAlister & Petersen, 2007; Perner et al., 1994).
+
+This awareness of the existence of theory of mind is part of social intelligence, such as recognizing that others can think differently about situations. It helps us to be self-conscious or aware that others can think of us in different ways and it helps us to be able to be understanding or be empathic toward others. Moreover, this mind reading ability helps us to anticipate and predict people's actions. The awareness of the mental states of others is important for communication and social skills.
+
+## Language Development
+
+### Language Development
+
+#### Vocabulary growth:
+
+A child's vocabulary expands between the ages of two to six from about 200 words to over 10,000 words. This "vocabulary spurt" typically involves 10-20 new words per week and is accomplished through a process called **fast-mapping**. *Words are easily learned by making connections between new words and concepts already known*. The parts of speech that are learned depend on the language and what is emphasized. Children speaking verb-friendly languages, such as Chinese and Japanese, learn verbs more readily, while those speaking English tend to learn nouns more readily. However, those learning less verb-friendly languages, such as English, seem to need assistance in grammar to master the use of verbs (Imai et al., 2008).
+
+#### Literal meanings:
+
+Children can repeat words and phrases after having heard them only once or twice, but they do not always understand the meaning of the words or phrases. This is especially true of expressions or figures of speech which are taken literally. For example, a classroom full of preschoolers hears the teacher say, "Wow! That was a piece of cake!" The children might begin asking "Cake? Where is my cake? I want cake!"
+
+#### Overregularization:
+
+Children learn rules of grammar as they learn language but may apply these rules inappropriately at first. For instance, a child learns to add "ed" to the end of a word to indicate past tense. They then form a sentence such as "I goed there. I doed that." This is typical at ages two and three. They will soon learn new words such as "went" and "did" to be used in those situations.
+
+#### The impact of training:
+
+Remember Vygotsky and the Zone of Proximal Development? Children can be assisted in learning language by others who listen attentively, model more accurate pronunciations and encourage elaboration. The child exclaims, "I'm goed there!" and the adult responds, "You went there? Say, 'I went there.' Where did you go?" Children may be ripe for language as Chomsky suggests, but active participation in helping them learn is important for language development as well. The process of scaffolding is one in which the guide provides needed assistance to the child as a new skill is learned.
+
+### Bilingualism
+
+Although monolingual speakers often do not realize it, the majority of children around the world are **bilingual**, *meaning that they understand and use two languages* (Meyers-Sutton, 2005). Even in the United States, which is a relatively monolingual society, more than 60 million people (21%) speak a language other than English at home (Camarota & Zeigler, 2014; Ryan, 2013). Children who are dual language learners are one of the fastest growing populations in the United States (Hammer et al., 2014). They make up nearly 30% of children enrolled in early childhood programs, like Head Start. By the time they enter school, they are very heterogeneous in their language and literacy skills, with some children showing delays in being proficient in either one or both languages (Hammer et al., 2014). Hoff (2018) reports language competency is dependent on the quantity, quality, and opportunity to use a language. Dual language learners may hear the same number of words and phrases (quantity) overall, as do monolingual children, but it is split between two languages (Hoff, 2018). Thus, in any single language they may be exposed to fewer words. They will show higher expressive and receptive skills in the language they come to hear the most.
+
+In addition, the quality of the languages spoken to the child may differ in bilingual versus monolingual families. Place and Hoff (2016) found that for many immigrant children in the United States, most of the English heard was spoken by a non-native speaker of the language. Finally, many children in bilingual households will sometimes avoid using the family's heritage language in favor of the majority language (DeHouwer, 2007, Hoff, 2018). A common pattern in Spanish-English homes is for the parents to speak to the child in Spanish, but for the child to respond in English. As a result, children may show little difference in the receptive skills between English and Spanish, but better expressive skills in English (Hoff, 2018).
+
+There are several studies that have documented the advantages of learning more than one language in childhood for cognitive executive function skills. Bilingual children consistently outperform monolinguals on measures of inhibitory control, such as ignoring irrelevant information (Bialystok et al., 2005). Studies also reveal an advantage for bilingual children on measures of verbal working memory (Kaushanskaya et al., 2014; Yoo & Kaushanskaya, 2012) and non-verbal working memory (Bialystok, 2011). However, it has been reported that among lower SES populations the working memory advantage is not always found (Bonifacci et al., 2011).
+
+There is also considerable research to show that being bilingual, either as a child or an adult, leads to greater efficiency in the word learning process. Monolingual children are strongly influenced by the **mutual-exclusivity bias**, *the assumption that an object has only a single name* (Kaushanskaya et al., 2014). For example, a child who has previously learned the word car may be confused when this object is referred to as an automobile or sedan. Research shows that monolingual children find it easier to learn the name of a new object, than acquiring a new name for a previously labeled object. In contrast, bilingual children and adults show little difficulty with either task (Kaushanskaya & Marian, 2009). This finding may be explained by the experience bilinguals have in translating between languages when referring to familiar objects.
+
+## Preschool
+
+Providing universal preschool has become an important lobbying point for federal, state, and local leaders throughout our country. In his 2013 State of the Union address, President Obama called upon congress to provide high quality preschool for all children. He continued to support universal preschool in his legislative agenda, and in December 2014 the President convened state and local policymakers for the White House Summit on Early Education (White House Press Secretary, 2014). However, universal preschool covering all four-year olds in the country would require significant funding. Further, how effective preschools are in preparing children for elementary school, and what constitutes high quality preschool have been debated. To set criteria for designation as a high-quality preschool, the National Association for the Education of Young Children (NAEYC) identifies 10 standards (NAEYC, 2016).
+
+These include:
+
+-   Positive relationships among all children and adults are promoted.
+
+-   A curriculum that supports learning and development in social, emotional, physical, language, and cognitive areas.
+
+-   Teaching approaches that are developmentally, culturally and linguistically appropriate.
+
+-   Assessment of children's progress to provide information on learning and development.
+
+-   The health and nutrition of children are promoted, while they are protected from illness and injury.
+
+-   Teachers possess the educational qualifications, knowledge, and commitment to promote children's learning.
+
+-   Collaborative relationships with families are established and maintained.
+
+-   Relationships with agencies and institutions in the children's communities are established to support the program's goals.
+
+-   The indoor and outdoor physical environments are safe and well-maintained.
+
+-   Leadership and management personnel are well qualified, effective, and maintain licensure status with the applicable state agency.
+
+Parents should review preschool programs using the NAEYC criteria as a guide and template for asking questions that will assist them in choosing the best program for their child. Selecting the right preschool is also difficult because there are so many types of preschools available. Zachry (2013) identified Montessori, Waldorf, Reggio Emilia, High Scope, Parent Co-Ops and Bank Street as types of preschool programs that focus on children learning through discovery. Teachers act as guides and create activities based on the child's developmental level.
+
+#### Head Start:
+
+For children who live in poverty, Head Start has been providing preschool education since 1965 when it was begun by President Lyndon Johnson as part of his war on poverty. It currently serves nearly one million children and annually costs approximately 7.5 billion dollars (United States Department of Health and Human Services, 2015). However, concerns about the effectiveness of Head Start have been ongoing since the program began. Armor (2015) reviewed existing research on Head Start and found there were no lasting gains, and the average child in Head Start had not learned more than children who did not receive preschool education.
+
+![Four-year-old Head Start students. [Image](https://commons.wikimedia.org/wiki/File:On_Thursday,_February_17,_HHS_Secretary_Kathleen_Sebelius_visited_the_Judy_Hoyer_Early_Learning_Center_at_Cool_Springs_Elementary_School_in_Adelphi,_Maryland_(3).jpg "https://commons.wikimedia.org/wiki/File:On_Thursday,_February_17,_HHS_Secretary_Kathleen_Sebelius_visited_the_Judy_Hoyer_Early_Learning_Center_at_Cool_Springs_Elementary_School_in_Adelphi,_Maryland_(3).jpg") by HHSgov is in the public domain.](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/On_Thursday%2C_February_17%2C_HHS_Secretary_Kathleen_Sebelius_visited_the_Judy_Hoyer_Early_Learning_Center_at_Cool_Springs_Elementary_School_in_Adelphi%2C_Maryland_%283%29.jpg/1599px-thumbnail.jpg?20130321140118){#fig-04-headstart fig-alt="On Thursday, February 17, HHS Secretary Kathleen Sebelius visited the Judy Hoyer Early Learning Center at Cool Springs Elementary School in Adelphi, Maryland. Sebelius reads to a group of 4-year old Head Start students. HHS photo by Chris Smith."}
+
+A 2015 report evaluating the effectiveness of Head Start comes from the What Works Clearinghouse. The What Works Clearinghouse identifies research that provides reliable evidence of the effectiveness of programs and practices in education and is managed by the Institute of Education Services for the United States Department of Education. After reviewing 90 studies on the effectiveness of Head Start, only one study was deemed scientifically acceptable and this study showed disappointing results (Barshay, 2015). This study showed that 3-and 4-year-old children in Head Start received "potentially positive effects" on general reading achievement, but no noticeable effects on math achievement and social-emotional development.
+
+Nonexperimental designs are a significant problem in determining the effectiveness of Head Start programs because a control group is needed to show group differences that would demonstrate educational benefits. Because of ethical reasons, low-income children are usually provided with some type of preschool programming in an alternative setting. Additionally, Head Start programs are different depending on the location, and these differences include the length of the day or qualification of the teachers. Lastly, testing young children is difficult and strongly dependent on their language skills and comfort level with an evaluator (Barshay, 2015).
+
+## Autism Spectrum Disorder
+
+A greater discussion on disorders affecting children and special educational services to assist them will occur in Chapter 5. However, because characteristics of autism spectrum disorder must be present in the early developmental period, as established by the DSM-5-TR (American Psychiatric Association, 2022), this disorder will be presented here. So, what exactly is an autism spectrum disorder?
+
+Autism spectrum disorder is probably the most misunderstood and puzzling of the neurodevelopmental disorders. Children with this disorder show signs of significant disturbances in three main areas: (a) deficits in social interaction, (b) deficits in communication, and (c) repetitive patterns of behavior or interests. These disturbances appear early in life and cause serious impairments in functioning (American Psychiatric Association, 2022). The child with autism spectrum disorder might exhibit deficits in social interaction by not initiating conversations with other children or turning their head away when spoken to. These children do not make eye contact with others and seem to prefer playing alone rather than with others. In a certain sense, it is almost as though these individuals live in a personal and isolated social world which others are simply not privy to or able to penetrate. Communication deficits can range from a complete lack of speech, to one-word responses (e.g., saying "Yes" or "No" when replying to questions or statements that require additional elaboration), to echoed speech (e.g., parroting what another person says, either immediately or several hours or even days later), and to difficulty maintaining a conversation because of an inability to reciprocate others' comments. These deficits can also include problems in using and understanding nonverbal cues (e.g., facial expressions, gestures, and postures) that facilitate normal communication.
+
+Repetitive patterns of behavior or interests can be exhibited a number of ways. The child might engage in stereotyped, repetitive movements (rocking, head-banging, or repeatedly dropping an object and then picking it up), or might show great distress at small changes in routine or the environment. For example, the child might throw a temper tantrum if an object is not in its proper place or if a regularly-scheduled activity is rescheduled. In some cases, the person with autism spectrum disorder might show highly restricted and fixated interests that appear to be abnormal in their intensity. For instance, the child might learn and memorize every detail about something even though doing so serves no apparent purpose. Importantly, autism spectrum disorder is not the same thing as intellectual disability, although these two conditions can occur together. The DSM-5-TR specifies that the symptoms of autism spectrum disorder are not caused or explained by intellectual disability.
+
+![Dr. Temple Grandin, an advocate for individuals with autism. [Image](https://www.flickr.com/photos/ala_members/9181670306 "https://www.flickr.com/photos/ala_members/9181670306") by [ALA The American Library Association](https://www.flickr.com/photos/ala_members/ "Go to ALA The American Library Association’s photostream") is licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en).](https://live.staticflickr.com/3668/9181670306_420cce8e0b_b.jpg){#fig-04-grandin fig-alt="Photograph of Temple Grandin making a speech in her 2013 Auditorium Speaker Series."}
+
+The qualifier "spectrum" in autism spectrum disorder is used to indicate that individuals with the disorder can show a range, or spectrum, of symptoms that vary in their magnitude and severity: Some severe, others less severe. The previous edition of the DSM included a diagnosis of Asperger's disorder, generally recognized as a less severe form of autism spectrum disorder. Individuals diagnosed with Asperger's disorder were described as having average or high intelligence and a strong vocabulary, but exhibiting impairments in social interaction and social communication, such as talking only about their special interests (Wing et al., 2011). However, because research has failed to demonstrate that Asperger's disorder differs from autism spectrum disorder, the DSM-5-TR does not include it. Some individuals with autism spectrum disorder, particularly those with better language and intellectual skills, can live and work independently as adults. However, most do not because the symptoms cause serious impairment in many aspects of life (APA, 2022).
+
+To determine current prevalence rates, the Autism and Developmental Disabilities Monitoring (ADDM) Network provides estimates of the prevalence of autism spectrum disorders among 8-year-old children who reside within 11 ADM sites in the United States, including Arizona, Arkansas, Colorado, Georgia, Maryland, Minnesota, Missouri, New Jersey, North Carolina, Tennessee, and Wisconsin (Baio et al., 2018). For 2014 (most recent data), estimates indicated that nearly 1 in 59 children in the United States has autism spectrum disorder, and the disorder is 4 times more common in boys (1 out of 38) than girls (1 out of 152).
+
+Rates of autism spectrum disorder have increased dramatically since the 1980s. For example, California saw an increase of 273% in reported cases from 1987 through 1998 (Byrd, 2002). Between 2000 and 2008, the rate of autism diagnoses in the United States increased 78% (CDC, 2012) and between 2000 and 2014 the rate increased 150% (Baio et al., 2018). Although it is difficult to interpret this increase, it is possible that the rise in prevalence is the result of the broadening of the diagnosis, increased efforts to identify cases in the community, and greater awareness and acceptance of the diagnosis. In addition, mental health professionals are now more knowledgeable about autism spectrum disorder and are better equipped to make the diagnosis, even in subtle cases (Novella, 2008).
+
+The exact causes of autism spectrum disorder remain unknown despite massive research efforts over the last two decades (Meek, Lemery-Chalfant, Jahromi, & Valiente, 2013). Autism appears to be strongly influenced by genetics, as identical twins show concordance rates of 60–90%, whereas concordance rates for fraternal twins and siblings are 5–10% (Autism Genome Project Consortium, 2007). Many different genes and gene mutations have been implicated in autism (Meek et al., 2013). Among the genes involved are those important in the formation of synaptic circuits that facilitate communication between different areas of the brain (Gauthier et al., 2011). A number of environmental factors are also thought to be associated with increased risk for autism spectrum disorder, at least in part, because they contribute to new mutations. These factors include exposure to pollutants, such as plant emissions and mercury, urban versus rural residence, and vitamin D deficiency (Kinney et al., 2009).
+
+A recent Swedish study looking at the records of over one million children born between 1973 and 2014 found that exposure to prenatal infections increased the risk for autism spectrum disorders (al-Haddad et al., 2019). Children born to mothers with an infection during pregnancy has a 79% increased risk of autism. Infections included sepsis, flu, pneumonia, meningitis, encephalitis, an infection of the placental tissues or kidneys, or a urinary tract infection. One possible reason for the autism diagnosis is that the fetal brain is extremely vulnerable to damage from infections and inflammation. These results highlighted the importance of pregnant women receiving a flu vaccination and avoiding any infections during pregnancy.
+
+There is no scientific evidence that a link exists between autism and vaccinations (Hughes, 2007). Indeed, a recent study compared the vaccination histories of 256 children with autism spectrum disorder with that of 752 control children across three time periods during their first two years of life (birth to 3 months, birth to 7 months, and birth to 2 years) (DeStefano et al., 2013). At the time of the study, the children were between 6 and 13 years old, and their prior vaccination records were obtained. Because vaccines contain immunogens (substances that fight infections), the investigators examined medical records to see how many immunogens children received to determine if those children who received more immunogens were at greater risk for developing autism spectrum disorder. The results of this study clearly demonstrated that the quantity of immunogens from vaccines received during the first two years of life were not at all related to the development of autism spectrum disorder.
+
+## Psychosocial Development in Early Childhood
+
+::: callout-tip
+### Learning Objectives: Psychosocial Development in Early Childhood
+
+-   Describe Erikson's third stage of initiative vs. guilt
+
+-   Describe the changes in self-concept and self-esteem
+
+-   Describe children's understanding of others
+
+-   Describe emotional regulation and delayed gratification
+
+-   Describe young children's understanding of morality
+
+-   Summarize the main theories of gender development
+
+-   Explain the terms transgender, gender dysphoria, and intersex
+
+-   Describe the major parenting styles and their consequences for children
+
+-   Describe the role of siblings in children's development
+
+-   Summarize the types of play in which children engage
+
+-   Describe the influence of the media on young children's social development
+:::
+
+### Erikson: Initiative vs. Guilt
+
+The trust and autonomy of previous stages develop into a desire to take initiative or to think of ideas and initiative action (Erikson, 1982). Children may want to build a fort with the cushions from the living room couch or open a lemonade stand in the driveway or make a zoo with their stuffed animals and issue tickets to those who want to come. Or they may just want to get themselves ready for bed without any assistance. To reinforce taking initiative, caregivers should offer praise for the child's efforts and avoid being critical of messes or mistakes. Placing pictures of drawings on the refrigerator, purchasing mud pies for dinner, and admiring towers of Legos will facilitate the child's sense of initiative.
+
+### Self-Concept and Self-Esteem
+
+Early childhood is a time of forming an initial sense of self. **Self-concept** *is our self-description according to various categories*, such as our external and internal qualities. In contrast, **self-esteem** *is an evaluative judgment about who we are*. The emergence of cognitive skills in this age group results in improved perceptions of the self. If asked to describe yourself to others you would likely provide some physical descriptors, group affiliation, personality traits, behavioral quirks, values, and beliefs. When researchers ask young children the same open-ended question, the children provide physical descriptors, preferred activities, and favorite possessions. Thus, a three-year-old might describe herself as a three-year-old girl with red hair who likes to play with Legos. This *focus on external qualities* is referred to as the **categorical self**. However, even children as young as three know there is more to themselves than these external characteristics. Harter and Pike (1984) challenged the method of measuring personality with an open-ended question as they felt that language limitations were hindering the ability of young children to express their self-knowledge. They suggested a change to the method of measuring self-concept in young children, whereby researchers provide statements that ask whether something is true of the child (e.g., "I like to boss people around", "I am grumpy most of the time"). Consistent with Harter and Pike's suspicions, those in early childhood answer these statements in an internally consistent manner, especially after the age of four (Goodvin et al., 2008) and often give similar responses to what others (parents and teachers) say about the child (Brown et al., 2008; Colwell & Lindsey, 2003).
+
+Young children tend to have a generally positive self-image. This optimism is often the result of a lack of social comparison when making self-evaluations (Ruble et al., 1980), and with comparison between what the child once could do to what they can do now (Kemple, 1995). However, this does not mean that preschool children are exempt from negative self-evaluations. Preschool children with insecure attachments to their caregivers tend to have lower self-esteem at age four (Goodvin et al., 2008). Maternal negative affect was also found by Goodwin and her colleagues to produce more negative self-evaluations in preschool children.
+
+![[Image](https://www.flickr.com/photos/kzaflicks/4873866291/in/photostream/) by [Kamau Akabueze](https://www.flickr.com/photos/kzaflicks/ "Go to Kamau Akabueze’s photostream") is licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en).](https://live.staticflickr.com/4139/4873866291_a8c0aff29e_b.jpg){fig-alt="Close-up of the face of a young child smiling widely."}
+
+### Self-Control
+
+Self-control is not a single phenomenon but is multi-faceted. It includes **response initiation**, *the ability to not initiate a behavior before you have evaluated all the information*; **response inhibition**, *the ability to stop a behavior that has already begun*; and **delayed gratification**, *the ability to hold out for a larger reward by forgoing a smaller immediate reward* (Dougherty et al., 2005). It is in early childhood that we see the start of self-control, a process that takes many years to fully develop. In the now-classic "Marshmallow Test" (Mischel et al., 1972) children are confronted with the choice of a small immediate reward (a marshmallow) and a larger delayed reward (more marshmallows). Walter Mischel and his colleagues over the years have found that the ability to delay gratification at the age of four predicted better academic performance and health later in life (Mischel et al., 2011). Self-control is related to executive function, discussed earlier in the chapter. As executive function improves, children become less impulsive (Traverso et al., 2015).
+
+## Gender
+
+Another important dimension of the self is the sense of self as male or female. Preschool aged children become increasingly interested in finding out the differences between boys and girls, both physically and in terms of what activities are acceptable for each. While two-year-olds can identify some differences and learn whether they are boys or girls, preschoolers become more interested in what it means to be male or female. **Gender** *is the cultural, social and psychological meanings associated with masculinity and feminity* (Spears Brown & Jewell, 2018). *A person's sense of self as a member of a particular gender* is known as **gender identity**. The development of gender identity appears to be due to an interaction among biological, social and representational influences (Ruble et al., 2006). **Gender roles**, or *the expectations associated with being male or female*, are learned in one's culture throughout childhood and into adulthood.
+
+**Gender socialization** *focuses on what young children learn about gender from society, including parents, peers, media, religious institutions, schools, and public policies*. Children learn about what is acceptable for females and males early, and in fact, this socialization may even begin the moment a parent learns that a child is on the way. Knowing the sex of the child can conjure up images of the child's behavior, appearance, and potential on the part of a parent, and this stereotyping continues to guide perception through life. Consider parents of newborns, shown a 7-pound, 20-inch baby, wrapped in blue (a color designating males) describe the child as tough, strong, and angry when crying. Shown the same infant in pink (a color used in the United States for baby girls), these parents are likely to describe the baby as pretty, delicate, and frustrated when crying (Maccoby & Jacklin, 1987). Female infants are held more, talked to more frequently and given direct eye contact, while male infant interactions are often mediated through a toy or activity.
+
+![Gender roles. [Image source](https://socialsci.libretexts.org/Bookshelves/Human_Development/Lifespan_Development%3A_A_Psychological_Perspective_4e_(Lally_and_Valentine-French)/04%3A_Early_Childhood/4.16%3A_Gender).](https://socialsci.libretexts.org/@api/deki/files/126308/5139069106_5c9374d9e3_w.jpg?revision=1){#fig-04-gender-roles fig-alt="Two young children in costumes standing together. One of them appears to be male, with short hair, wearing a military fatigues costume and holding a toy gun. The other child appears to be female, with long hair and wearing a pink princess dress costume."}
+
+As they age, sons are given tasks that take them outside the house and that have to be performed only on occasion, while girls are more likely to be given chores inside the home, such as cleaning or cooking, that are performed daily. Sons are encouraged to think for themselves when they encounter problems and daughters are more likely to be given assistance, even when they are working on an answer. Parents also talk to their children differently according to their gender. For example, parents talk to sons more in detail about science, and they discuss numbers and counting twice as often than with daughters (Chang et al., 2011). How are these beliefs about behaviors and expectations based on gender transmitted to children?
+
+### Theories of Gender Development
+
+One theory of gender development in children is **social learning theory**, *which argues that behavior is learned through observation, modeling, reinforcement, and punishment* (Bandura, 1997). Children are rewarded and reinforced for behaving in concordance with gender roles that have been presented to them since birth and punished for breaking gender roles. In addition, social learning theory states that children learn many of their gender roles by modeling the behavior of adults and older children and, in doing so, develop ideas about what behaviors are appropriate for each gender. **Cognitive social learning theory** *also emphasizes reinforcement, punishment, and imitation, but adds cognitive processes*. These processes include attention, self-regulation, and self-efficacy. Once children learn the significance of gender, they regulate their own behavior based on internalized gender norms (Bussey & Bandura, 1999).
+
+Another theory is that *children develop their own conceptions of the attributes associated with maleness or femaleness*, which is referred to as **gender schema theory** (Bem, 1981). Once children have identified with a particular gender, they seek out information about gender traits, behaviors, and roles. This theory is more constructivist as children are actively acquiring their gender. For example, friends discuss what is acceptable for boys and girls, and popularity may be based on what is considered ideal behavior for their gender.
+
+**Developmental intergroup theory** states that *many of our gender stereotypes are so strong because we emphasize gender so much in culture* (Bigler & Liben, 2007). Developmental intergroup theory postulates that adults' heavy focus on gender leads children to pay attention to gender as a key source of information about themselves and others, to seek out any possible gender differences, and to form rigid stereotypes based on gender that are subsequently difficult to change.
+
+### Transgender Children
+
+Many young children do not conform to the gender roles modeled by the culture and even push back against assigned roles. However, a small percentage of children actively reject the toys, clothing, and anatomy of their assigned sex and state they prefer the toys, clothing and anatomy of the opposite sex. Approximately 0.3 percent of the United States population identify as **transgender** or *identifying with the gender opposite their natal sex* (Olson & Gülgöz, 2018). Some of these children may experience **gender dysphoria**, or *a marked incongruence between one's assigned gender and their experienced/expressed gender* (American Psychiatric Association, 2022). However, other children do not experience discomfort regarding their gender identity. Transgender adults have stated that they identified with the opposite gender as soon as they began talking (Russo, 2016).
+
+Current research is now looking at those young children who identify as transgender and have socially transitioned. In 2013, a longitudinal study following 300 socially transitioned transgender children between the ages of 3 and 12 began (Olson & Gülgöz, 2018). Socially transitioned transgender children identify with the gender opposite than the one assigned at birth, and they change their appearance and pronouns to reflect their gender identity. Findings from the study indicated that the gender development of these socially transitioned children looked similar to the gender development of **cisgender** children, or *those whose gender and sex assignment at birth matched*. These socially transitioned transgender children exhibited similar gender preferences and gender identities as their gender-matched peers. Further, these children who were living every day according to their gender identity and were supported by their families exhibited positive mental health.
+
+Some individuals who identify as transgender are **intersex**; that is, *born with either an absence or some combination of male and female reproductive organs, sex hormones, or sex chromosomes* (Jarne & Auld, 2006). In humans, intersex individuals make up more than 150 million people, or about two percent of the world's population (Blackless et al., 2000). There are dozens of intersex conditions, and intersex individuals demonstrate the diverse variations of biological sex. Some examples of intersex conditions include:
+
+-   **Turner syndrome** or *the absence of, or an imperfect, second X chromosome*
+
+-   **Congenital adrenal hyperplasia** or *a genetic disorder caused by an increased production of androgens*
+
+-   **Androgen insensitivity syndrome** or *a condition where a person has one X and one Y chromosome, but is resistant to the male hormones or androgens*
+
+Greater attention to the rights of children born intersex is occurring in the medical field, and intersex children and their parents should work closely with specialists to ensure these children develop positive gender identities.
+
+### How much does gender matter for children?
+
+Starting at birth, children learn the social meanings of gender from adults and their culture. Gender roles and expectations are especially portrayed in children's toys, books, commercials, video games, movies, television shows and music (Khorr, 2017). Therefore, when children make choices regarding their gender identification, expression, and behavior that may be contrary to gender stereotypes, it is important that they feel supported by the caring adults in their lives. This support allows children to feel valued, resilient, and develop a secure sense of self (American Academy of Pediatricians, 2015).
+
+## Parenting Styles
+
+Relationships between parents and children continue to play a significant role in children's development during early childhood. As children mature, parent-child relationships naturally change. Preschool and grade-school children are more capable, have their own preferences, and sometimes refuse or seek to compromise with parental expectations. This can lead to greater parent-child conflict, and how conflict is managed by parents further shapes the quality of parent-child relationships.
+
+**Baumrind** (1971) identified a model of parenting that focuses on the level of control/expectations that parents have regarding their children and how warm/responsive they are. This model resulted in four parenting styles. In general, children develop greater competence and self-confidence when parents have high, but reasonable expectations for children's behavior, communicate well with them, are warm, loving and responsive, and use reasoning, rather than coercion as preferred responses to children's misbehavior. This kind of parenting style has been described as **authoritative** (Baumrind, 2013). *Authoritative parents are supportive and show interest in their kids' activities but are not overbearing and allow them to make constructive mistakes*. Parents allow negotiation where appropriate, and consequently this type of parenting is considered more democratic.
+
+**Authoritarian** *is the traditional model of parenting in which parents make the rules and children are expected to be obedient*. Baumrind suggests that authoritarian parents tend to place maturity demands on their children that are unreasonably high and tend to be aloof and distant. Consequently, children reared in this way may fear rather than respect their parents and, because their parents do not allow discussion, may take out their frustrations on safer targets—perhaps as bullies toward peers.
+
+**Permissive parenting** *involves holding expectations of children that are below what could be reasonably expected from them*. Children are allowed to make their own rules and determine their own activities. Parents are warm and communicative but provide little structure for their children. Children fail to learn self-discipline and may feel somewhat insecure because they do not know the limits.
+
+**Uninvolved parents** *are disengaged from their children. They do not make demands on their children and are non-responsive*. These children can suffer in school and in their relationships with their peers (Gecas & Self, 1991).
+
+Keep in mind that most parents do not follow any model completely. Real people tend to fall somewhere in between these styles. Sometimes parenting styles change from one child to the next or in times when the parent has more or less time and energy for parenting. Parenting styles can also be affected by concerns the parent has in other areas of his or her life. For example, parenting styles tend to become more authoritarian when parents are tired and perhaps more authoritative when they are more energetic. Sometimes parents seem to change their parenting approach when others are around, maybe because they become more self-conscious as parents or are concerned with giving others the impression that they are a "tough" parent or an "easygoing" parent. Additionally, parenting styles may reflect the type of parenting someone saw modeled while growing up. See @tbl-04-parenting-styles for Baumrind's parenting style descriptions.
+
++---------------------------+------------+--------------------------+---------------+------------+
+|                           |            | **Expectations/Control** |               |            |
++---------------------------+------------+--------------------------+---------------+------------+
+|                           |            | **Low**                  | **High**      |            |
++---------------------------+------------+--------------------------+---------------+------------+
+| **Warmth/responsiveness** | **High**   | permissive               | authoritative |            |
++---------------------------+------------+--------------------------+---------------+------------+
+|                           | **Low**    | uninvolved               | authoritarian |            |
++---------------------------+------------+--------------------------+---------------+------------+
+
+: Comparison of Baumrid's Four Parenting Styles. {#tbl-04-parenting-styles}
+
+#### Culture
+
+The impact of culture and class cannot be ignored when examining parenting styles. The model of parenting described above assumes that the authoritative style is the best because this style is designed to help the parent raise a child who is independent, self-reliant and responsible. These are qualities favored in "individualistic" cultures such as the United States, particularly by the middle class. However, in "collectivistic" cultures such as China or Korea, being obedient and compliant are favored behaviors. Authoritarian parenting has been used historically and reflects cultural need for children to do as they are told. African-American, Hispanic and Asian parents tend to be more authoritarian than non-Hispanic whites. In societies where family members' cooperation is necessary for survival, rearing children who are independent and who strive to be on their own makes no sense. However, in an economy based on being mobile in order to find jobs and where one's earnings are based on education, raising a child to be independent is very important.
+
+In a classic study on social class and parenting styles, Kohn (1977) explains that parents tend to emphasize qualities that are needed for their own survival when parenting their children. Working-class parents are rewarded for being obedient, reliable, and honest in their jobs. They are not paid to be independent or to question the management; rather, they move up and are considered good employees if they show up on time, do their work as they are told, and can be counted on by their employers. Consequently, these parents reward honesty and obedience in their children. Middle-class parents who work as professionals are rewarded for taking initiative and being self-directed and assertive in their jobs. They are required to get the job done without being told exactly what to do. They are asked to be innovative and to work independently. These parents encourage their children to have those qualities as well by rewarding independence and self-reliance. Parenting styles can reflect many elements of culture.
+
+### Spanking
+
+Spanking is often thought of as a rite of passage for children, and this method of discipline continues to be endorsed by the majority of parents (Smith, 2012). Just how effective is spanking, however, and are there any negative consequences? After reviewing the research, Smith (2012) states "many studies have shown that physical punishment, including spanking, hitting and other means of causing pain, can lead to increased aggression, antisocial behavior, physical injury and mental health problems for children" (p. 60). Gershoff (2008) reviewed decades of research and recommended that parents and caregivers make every effort to avoid physical punishment and called for the banning of physical discipline in all U.S. schools.
+
+In a longitudinal study that followed more than 1500 families from 20 U.S. cities, parents' reports of spanking were assessed at ages three and five (MacKenzie et al., 2013). Measures of externalizing behavior and receptive vocabulary were assessed at age nine. Results indicated that those children who were spanked at least twice a week by their mothers scored 2.66 points higher on a measure of aggression and rule-breaking than those who were never spanked. Additionally, those who were spanked less, still scored 1.17 points higher than those never spanked. When fathers did the spanking, those spanked at least two times per week scored 5.7 points lower on a vocabulary test than those never spanked. This study revealed the negative cognitive effects of spanking in addition to the increase in aggressive behavior.
+
+Internationally, physical discipline is increasingly being viewed as a violation of children's human rights. According to Save the Children (2019), 46 countries have banned the use of physical punishment, and the United Nations Committee on the Rights of the Child (2014) called physical punishment "legalized violence against children" and advocated that physical punishment be eliminated in all settings.
+
+Many alternatives to spanking are advocated by child development specialists and include:
+
+-   Praising and modeling appropriate behavior
+
+-   Providing time-outs for inappropriate behavior
+
+-   Giving choices
+
+-   Helping the child to identify emotions and learn to calm down
+
+-   Ignoring small annoyances
+
+-   Withdrawing privileges
+
+## Sibling Relationships
+
+![Sibling interaction. [Image](https://pixabay.com/photos/brothers-siblings-advice-444924/ "https://pixabay.com/photos/brothers-siblings-advice-444924/") by [MemoryCatcher](https://pixabay.com/users/memorycatcher-168384/).](https://cdn.pixabay.com/photo/2014/09/14/13/28/brothers-444924_1280.jpg){#fig-04-siblings fig-alt="Two siblings sit next to each other in a park and talk."}
+
+Siblings spend a considerable amount of time with each other and offer a unique relationship that is not found with same-age peers or with adults. Siblings play an important role in the development of social skills. Cooperative and pretend play interactions between younger and older siblings can teach empathy, sharing, and cooperation (Pike et al., 2005), as well as, negotiation and conflict resolution (Abuhatoum & Howe, 2013). However, the quality of sibling relationships is often mediated by the quality of the parent-child relationship and the psychological adjustment of the child (Pike et al., 2005). For instance, more negative interactions between siblings have been reported in families where parents had poor patterns of communication with their children (Brody et al., 1994). Children who have emotional and behavioral problems are also more likely to have negative interactions with their siblings. However, the psychological adjustment of the child can sometimes be a reflection of the parent-child relationship. Thus, when examining the quality of sibling interactions, it is often difficult to tease out the separate effect of adjustment from the effect of the parent-child relationship.
+
+While parents want positive interactions between their children, conflicts are going to arise, and some confrontations can be the impetus for growth in children's social and cognitive skills. The sources of conflict between siblings often depend on their respective ages. Dunn and Munn (1987) revealed that over half of all sibling conflicts in early childhood were disputes about property rights. By middle childhood this starts shifting toward control over social situation, such as what games to play, disagreements about facts or opinions, or rude behavior (Howe et al., 2002). Researchers have also found that the strategies children use to deal with conflict change with age, but this is also tempered by the nature of the conflict. Abuhatoum and Howe (2013) found that coercive strategies (e.g., threats) were preferred when the dispute centered on property rights, while reasoning was more likely to be used by older siblings and in disputes regarding control over the social situation. However, younger siblings also use reasoning, frequently bringing up the concern of legitimacy (e.g., "You're not the boss") when in conflict with an older sibling. This is a very common strategy used by younger siblings and is possibly an adaptive strategy in order for younger siblings to assert their autonomy (Abuhatoum & Howe, 2013). A number of researchers have found that children who can use non-coercive strategies are more likely to have a successful resolution, whereby a compromise is reached and neither child feels slighted (Ram & Ross, 2008; Abuhatoum & Howe, 2013). Not surprisingly, friendly relationships with siblings often lead to more positive interactions with peers. The reverse is also true. A child can also learn to get along with a sibling, with, as the song says, "a little help from my friends" (Kramer & Gottman, 1992).
+
+## Play
+
+![Which type of play are these two boys engaging in? [Image](https://pixabay.com/photos/people-little-boys-park-children-1560569/ "https://pixabay.com/photos/people-little-boys-park-children-1560569/") by [HaiBaron](https://pixabay.com/users/haibaron-3003429/).](https://cdn.pixabay.com/photo/2016/08/01/06/51/people-1560569_1280.jpg){#fig-04-play fig-alt="Two young boys are crouching facing each other. They are playing by reaching into the water of a small pond."}
+
+Freud saw play as a means for children to release pent-up emotions and to deal with emotionally distressing situations in a more secure environment. Vygotsky and Piaget saw play as a way of children developing their intellectual abilities (Dyer & Moneta, 2006). All three theorists saw play as providing positive outcomes for children. Parten (1932) observed two- to five-year-old children and noted six types of play: Three labeled as non-social play (unoccupied, solitary, and onlooker) and three categorized as social play (parallel, associative, and cooperative). @tbl-04-play describes each type of play. Younger children engage in non-social play more than those older; by age five associative and cooperative play are the most common forms of play (Dyer & Moneta, 2006).
+
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Type of Play     | Description                                                                                                                                      |
++==================+==================================================================================================================================================+
+| Unoccupied Play  | Children's behavior seems more random and without a specific goal. This is the least common form of play.                                        |
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Solitary Play    | Children play by themselves, do not interact with others, nor are they engaging in similar activities as the children around them.               |
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Onlooker Play    | Children are observing other children playing. They may comment on the activities and even make suggestions but will not directly join the play. |
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Parallel Play    | Children play alongside each other, using similar toys, but do not directly act with each other.                                                 |
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Associative Play | Children will interact with each other and share toys but are not working toward a common goal.                                                  |
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Cooperative Play | Children are interacting to achieve a common goal. Children may take on different tasks to reach that goal.                                      |
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+
+: Parten's Classification of Types of Play in Preschool Children {#tbl-04-play}
+
+::: callout-note
+### Imaginary Companions
+
+An intriguing occurrence in early childhood is the emergence of imaginary companions. Researchers differ in how they define what qualifies as an imaginary companion. Some studies include only invisible characters that the child refers to in conversation or plays with for an extended period of time. Other researchers also include objects that the child personifies, such as a stuffed toy or doll, or characters the child impersonates every day. Estimates of the number of children who have imaginary companions varies greatly (from as little as 6% to as high as 65%), depending on what is included in the definition (Gleason et al., 2000).
+
+![A young girl sits on a rock in a meadow, with a teddy bear sitting on the rock beside her.](https://cdn.pixabay.com/photo/2014/11/30/18/36/friends-551903_1280.jpg){#fig-04-imaginary fig-alt="A young girl sits on a rock in a meadow, with a teddy bear sitting on the rock beside her."}
+
+Little is known about why children create imaginary companions, and more than half of all companions have no obvious trigger in the child's life (Masih, 1978). Imaginary companions are sometimes based on real people, characters from stories, or simply names the child has heard (Gleason, et. al., 2000). Imaginary companions often change over time. In their study, Gleason et al. (2000) found that 40% of the imaginary companions of the children they studied changed, such as developing superpowers, switching age or gender, or even dying, and 68% of the characteristics of the companion were acquired over time. This could reflect greater complexity in the child's "creation" over time and/or a greater willingness to talk about their imaginary playmates.
+
+In addition, research suggests that contrary to the assumption that children with imaginary companions are compensating for poor social skills, several studies have found that these children are very sociable (Mauro, 1991; Singer & Singer, 1990; Gleason, 2002). However, studies have reported that children with imaginary companions are more likely to be first-borns or only-children (Masih, 1978; Gleason et al., 2000, Gleason, 2002). Although not all research has found a link between birth order and the incidence of imaginary playmates (Manosevitz et al., 1973). Moreover, some studies have found little or no difference in the presence of imaginary companions and parental divorce (Gleason et al., 2000), number of people in the home, or the amount of time children are spending with real playmates (Masih, 1978; Gleason & Hohmann, 2006).
+
+Do children treat real friends differently? The answer appears to be not really. Young children view their relationship with their imaginary companion to be as supportive and nurturing as with their real friends. Gleason has suggested that this might suggest that children form a schema of what is a friend and use this same schema in their interactions with both types of friends (Gleason, et al., 2000; Gleason, 2002; Gleason & Hohmann, 2006).
+:::
+
+### Children and the Media
+
+![Child watching television. [Image](https://www.flickr.com/photos/oddharmonic/2405784549) by [oddharmonic](https://www.flickr.com/photos/oddharmonic/ "Go to oddharmonic’s photostream") is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en).](https://live.staticflickr.com/3209/2405784549_264fe67e22_z.jpg){#fig-04-media fig-alt="A young child sits in front of a television, watching a cartoon program."}
+
+Children view far more television today than in the 1960s; so much that they have been referred to as Generation M for Media. Almost all American families have at least one TV set, and half own three or more (Nielsen Company, 2009). For children age six and under, two-thirds watch television every day, usually for two hours (Rideout & Hamel, 2006). Even when involved in other activities, such as playing, there is often a television on nearby (Christakis, 2009; Kirkorian et al., 2009). Research has consistently shown that too much television adversely affects children's behavior, health, and achievement (Gentile & Walsh, 2002; Robinson et al., 2001). Young children are less able to focus on active, hands-on play while the television is on, and background TV can negatively affect cognitive and language development as well as be linked to attention problems later in childhood (Schmidt et al., 2008; Courage et al., 2010).
+
+An additional concern is the amount of screen time children are getting with smart mobile devices. While most parents believe that their young children use mobile devices for a variety of activities, the children report that they typically use them to play games (Chiong & Schuler, 2010). Studies have reported that young children who have two or more hours per day using mobile devices show more externalizing behaviors (aggression, tantrums) and inattention (Tamana, et al., 2019), shorter sleep durations and a higher risk of behavioral problems (Wu, 2017), and fail to meet developmental milestones in fine and gross motor skills, language, and problem-solving (Madigan et al., 2019).
+
+Based on research findings, the AAP (2016) suggests that prior to the age of two, children should be engaged in hands-on exploration and social interaction with the real world, rather than the virtual one. The immaturity of the cognitive functions in infants and toddlers make it difficult for them to learn from digital media as effectively as they can from caregivers. For instance, it is often not until 24 months of age that children can learn new words from live-video chatting (Kirkorian et al., 2016). Between the ages of 2 and 5 the AAP (2016) suggests that children should be limited to no more than one hour per day of high-quality programs that are co-viewed with a caregiver to help children to understand what they are viewing. The AAP also strongly suggest that parents should avoid using mobile media to soothe their children. The concern is that using media as a strategy to distract or soothe the child may make it difficult for parents to limit the child's use of the devices and may inhibit children's ability to self-regulate their own emotions.
+
+## Child Care
+
+In 2018, about 71.5% of mothers of school-aged and 65.1% percent of mothers of preschool aged children in the United States worked outside the home (Bureau of Labor Statistics, 2019). Since more women have been entering the workplace, there has been a concern that families do not spend as much time with their children. This, however, is not true. The Economist Data Team (2017) analyzed data from of ten countries (United States, Britain, Canada, France, Germany, Denmark, Italy, Netherlands, Slovenia and Spain) and estimated that the average mother spent 54 minutes a day caring for children in 1965, but 104 minutes in 2012. Only mothers in France spent less time in 2012 than in 1965. Men continue to do less than women at 59 minutes per day in 2012, but they provided more care than in 1965 when they averaged only 16 minutes a day. However, differences were found between working-class and middle-class mothers. In 1965 mothers with and without a university education spent about the same amount of time on child care. By 2012 the more educated ones were spending half an hour more per day. See @fig-04-mothers-child-care for the difference between mothers in the United States who were university-educated (dark blue line) and those who were non-university-educated (light blue line).
+
+![Mothers’ daily time spent in child care, 1965–2012. Image source.](https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/sites/default/files/20171202_WOC292.png){#fig-04-mothers-child-care fig-alt="Ten graphs showing the time in minutes spent by mothers on daily child care, between the years 1965 and 2012. The lower right graph is for the US: For university-educated mothers, as graphed in dark blue, the daily time rose from roughly 60 minutes in 1965 to 120 minutes in 2012. For non-university-educated mothers, graphed in light blue, the daily time rose from roughly 55 minutes in 1965 to 90 minutes in 2012."}
+
+To evaluate how early child care affects children's development, the National Institute of Child Health and Human Development (2006) conducted a longitudinal study. This study is considered the most comprehensive child care study to date, and it began in 1991 when the children were one month of age. The study included an economically and ethnically diverse group of 1364 children assessed from 10 sites around the country. By design the study involved single parents, minority backgrounds, and differing formal education levels. Child care was defined as "any care provided on a regular basis by someone other than the child's mother" (p. 4). A regular basis included more than 10 hours per week. Child care arrangements included care from the father or another relative, care from a caregiver not related to the child in the child's home, small group care in the caregiver's home, and center-based care.
+
+Overall results indicated that children cared for by their mothers did not develop differently than those who were cared for by others. Parents and family characteristics were stronger predictors of child development than child care facilities. Specifically, greater cognitive, language and social competence were demonstrated when parents were more educated, had higher incomes, and provided emotionally supportive and cognitively enriched home environments. When comparing higher quality child care with lower quality child care, differences were noted. Higher quality care, as measured by adult-to-child ratios, group size, and caregivers' educational and training levels, resulted in higher cognitive performance, better language comprehension and production, and higher levels of school readiness. Lower quality care predicted more behavioral problems and poorer cognitive, language, and school readiness.
+
+![Child care quality partly depends on caregiver-to-child ratio. [Image](https://commons.wikimedia.org/wiki/File:Kids_at_daycare.jpg) by [Grant Barrett](https://www.flickr.com/people/37718676626@N01) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en).](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kids_at_daycare.jpg/1600px-Kids_at_daycare.jpg?20130103085025){#fig-04-parachute fig-alt="A teacher and children at daycare playing with a parachute."}
+
+The higher the teacher-to-child ratio, the more time the teacher has for involvement with the children and the less stressed the teacher may be so that the interactions can be more relaxed, stimulating and positive. The more children there are in a program, the less desirable the program as well. This is because the center may be more rigid in rules and structure to accommodate the large number of children in the facility. The physical environment should be colorful, stimulating, clean, and safe. The philosophy of the organization and the curriculum available should be child-centered, positive, and stimulating. Providers should be trained in early childhood education as well. A majority of states do not require training for their child care providers. While formal education is not required for a person to provide a warm, loving relationship to a child, knowledge of a child's development is useful for addressing their social, emotional, and cognitive needs in an effective way. By working toward improving the quality of childcare and increasing family-friendly workplace policies, such as more flexible scheduling and childcare facilities at places of employment, we can accommodate families with smaller children and relieve parents of the stress sometimes associated with managing work and family life.
+
+## Child Abuse
+
+The Child Abuse Prevention and Treatment Act (United States Department of Health and Human Services, 2013) defines **Child Abuse and Neglect** as: *Any recent act or failure to act on the part of a parent or caretaker which results in death, serious physical or emotional harm, sexual abuse or exploitation; or an act or failure to act, which presents an imminent risk of serious harm* (p. viii). Each state has its own definition of child abuse based on the federal law, and most states recognize four major types of maltreatment: neglect, physical abuse, psychological maltreatment, and sexual abuse. Each of the forms of child maltreatment may be identified alone, but they can occur in combination.
+
+### Victims of Child Abuse:
+
+According to the United States Department of Health and Human Services (HHS) (2019), during 2017 (the most recent year data has been collected) Child Protective Services (CPS) agencies received an estimated 4.1 million referrals for abuse involving approximately 7.5 million children. This is a rate of 31.8 per 1,000 children in the national population. Professionals made 65.7% of alleged child abuse and neglect reports, and they included law enforcement (18.3%), educational (19.4%) and social services personnel (11.7%). Nonprofessionals, such as friends, neighbors, and relatives, submitted 17.3% of the reports. Approximately 3.5 million children were the subjects of at least one report. Victims in their first year of life had the highest rate of victimization (25.3 per 1,000 children of the same age). The majority of victims consisted of three ethnicities: White (44.6%), Hispanic (22.3%), and African-American (20.7%). The greatest percentages of children suffered from neglect (74.9%) and physical abuse (18.3%), although a child may have suffered from multiple forms of maltreatment. In 2017 an estimated 1,720 children died from abuse and neglect, and 71.8% of all child fatalities were younger than 3 years old. Boys had a higher child fatality rate (2.68 per 100,000 boys), while girls died of abuse and neglect at a rate of 2.02 per 100,000 girls. More than 88% of child fatalities were comprised of White (41.9%), African-American (31.5%), and Hispanic (15.1%) victims (HHS, 2019).
+
+### Sexual Abuse:
+
+**Childhood sexual abuse** is defined as *any sexual contact between a child and an adult or a much older child*. **Incest** refers to *sexual contact between a child and family members*. In each of these cases, the child is exploited by an older person without regard for the child's developmental immaturity and inability to understand the sexual behavior (Steele, 1986). Research estimates that 1 out of 4 girls and 1 out of 10 boys have been sexually abused (Valente, 2005). The median age for sexual abuse is 8 or 9 years for both boys and girls (Finkelhorn et al., 1990). Most boys and girls are sexually abused by a male. Although rates of sexual abuse are higher for girls than for boys, boys may be less likely to report abuse because of the cultural expectation that boys should be able to take care of themselves and because of the stigma attached to homosexual encounters (Finkelhorn et al., 1990). Girls are more likely to be abused by family members and boys by strangers. Sexual abuse can create feelings of self-blame, betrayal, shame and guilt (Valente, 2005). Sexual abuse is particularly damaging when the perpetrator is someone the child trusts and may lead to depression, anxiety, problems with intimacy, and suicide (Valente, 2005).
+
+### Stress on Young Children:
+
+Children experience different types of stressors. Normal, everyday stress can provide an opportunity for young children to build coping skills and poses little risk to development. Even more long-lasting stressful events, such as changing schools or losing a loved one, can be managed fairly well. Children who experience toxic stress or who live in extremely stressful situations of abuse over long periods of time can suffer long-lasting effects. The structures in the midbrain or limbic system, such as the hippocampus and amygdala, can be vulnerable to prolonged stress during early childhood (Middlebrooks & Audage, 2008). High levels of the stress hormone cortisol can reduce the size of the hippocampus and affect the child's memory abilities. Stress hormones can also reduce immunity to disease. The brain exposed to long periods of severe stress can develop a low threshold making the child hypersensitive to stress in the future.
+
+### Adverse Childhood Experiences (ACEs)
+
+The toxic stress that young children endure can have a significant impact on their later lives. According to Merrick, Ford, Ports, and Guinn (2018), the foundation for lifelong health and well-being is created in childhood, as positive experiences strengthen biological systems while adverse experiences can increase mortality and morbidity. *All types of abuse, neglect, and other potentially traumatic experiences that occur before the age of 18* are referred to as **adverse childhood experiences (ACEs)** (CDC, 2019). ACEs have been linked to risky behaviors, chronic health conditions, low life potential and early death, and as the number of ACEs increase, so does the risk for these results.
+
+![[Image source](https://www.cdc.gov/museum/education/newsletter/2023/mar/index.html).](https://www.cdc.gov/museum/education/newsletter/2023/mar/images/intro02.jpg?_=81973){#fig-04-aces fig-alt="A graphic shows that adverse childhood experiences can have many lasting impacts, including injury such as traumatic brain injury, fractures, or burns; mental health problems such as depression, anxiety, suicide, or PTSD; maternal health problems such as unintended pregnancy, pregnancy complications, or fetal death; infectious diseases such as HIV or STDs, chronic diseases such as cancer or diabetes, risky behaviors such as alcohol and drug abuse or unsafe sex; and loss of opportunities with regards to education, occupation, or income."}
+
+When a child experiences strong, frequent, and/or prolonged adversity without adequate adult support, the child's stress response systems can be activated and disrupt the development of the brain and other organ systems (Harvard University, 2019). Further, ACEs can increase the risk for stress-related disease and cognitive impairment, well into the adult years. Felitti et al. (1998) found that those who had experienced four or more ACEs, compared to those who had experienced none, had increased health risks for alcoholism, drug abuse, depression, suicide attempt, increase in smoking, poor self-rated health, more sexually transmitted diseases, an increase in physical inactivity and severe obesity. More ACEs showed an increased relationship to the presence of adult diseases including heart disease, cancer, chronic lung disease, skeletal fractures, and liver disease. Overall, those with multiple ACEs were likely to have multiple health risk factors later in life.
+
+![How ACES affect children and adults. [Image source](https://www.ajpmonline.org/cms/attachment/ce174931-2e5d-4967-92d4-4268a0a2e02e/gr2.gif).](https://www.ajpmonline.org/cms/attachment/ce174931-2e5d-4967-92d4-4268a0a2e02e/gr2.gif){#fig-04-aces-affects fig-alt="How adverse childhood experiences can affect people from childhood throughout their lifetimes, as represented by a chronologically pyramid whose base represents birth and whose apex represents death. The lowest level of the pyramid is labeled as adverse childhood experiences, the level above that as social, emotional, and cognitive impairment, the level above that as adoption of health-risk behaviors, the level above that as disease, disability, and social problems, and the highest level as early death."}
+
+Some groups have been found to be at a greater risk for experiencing ACEs. Merrick et al. (2018) reviewed the results from the 2011-2014 Behavioral Risk Factor Surveillance System, which included an ACE module consisting of questions adapted from the Centers for Disease Control and Prevention. Each question was collapsed into one of the eight ACE categories: physical abuse, emotional abuse, sexual abuse, household mental illness, household substance use, household domestic violence, incarcerated household member, and parental separation or divorce. The results indicated that 25% of the sample had been exposed to three or more ACEs, and although ACEs were found across all demographic groups, those who identified as Black, multiracial, lesbian/gay/bisexual, having less than a high school education, being low income, and unemployed experienced significantly higher ACE exposure. Assisting families and providing children with supportive and responsive adults can help prevent the negative effects of ACEs.
+
+### Separating Families at the United States Border:
+
+Thousands of children were separated from their parents beginning in April 2018 as they approached the United States border by Immigration and Custom Enforcement (ICE). Children were placed in separate facilities from their parents when they were being processed, and they were not told when they would be reunited. When enduring stressful situations, separation from one's parents can be extremely detrimental to a child (Society for Research in Child Development (SRCD), 2018). Parental separations affect children's stress management systems by changing how the body responds to stress. Long-term stress can disrupt brain functioning, cognitive skills, emotional processing, and physiological health. When exposed to stress, children typically look to their parents for support and care, and parents can reduce children's stress. These separated children were already under extreme stress escaping their previous homes, and then were separated from the individuals who could support them through this process.
+
+![Children in a detention center. [Image](https://commons.wikimedia.org/wiki/File:Ursula_(detention_center)_2.jpg "https://commons.wikimedia.org/wiki/File:Ursula_(detention_center)_2.jpg") by US Government is in the public domain.](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ursula_%28detention_center%29_2-res.jpg/1600px-Ursula_%28detention_center%29_2-res.jpg?20250123031636){fig-alt="A photo of the U.S. Customs and Border Protection Ursula detention facility in McAllen, Texas. Several adults are exiting a large space that is mostly occupied by sleeping mats filled with children who are sitting or lying down."}
+
+Stress from parent separation places children at a higher risk for anxiety, depression, PTSD, lower IQ, obesity, impaired immune system functioning, and medical conditions (SRCD, 2018). Even after being reunited, children can experience attachment issues, poorer self-esteem, and physical and psychological health difficulties. As they age, they continue to exhibit an increased risk for mental health problems, problems in social interactions, difficulty with adult attachments, poorer stress management, and an increased risk for death. The American Psychological Association (2019) opposes policies that separate families given the negative outcomes suffered by children.
+
+## COVID-19 Impact on Early Childhood
+
+### Prevalence and MIS-C:
+
+Since the start of the pandemic, children make up approximately 14% of COVID-19 cases (American Academy of Pediatrics (AAP), 2021). Most children with COVID-19 have mild or no symptoms (CDC, 2021). However, children with underlying conditions such as asthma or other chronic lung diseases, diabetes, sickle cell, heart disease since birth, a suppressed immune system, obesity, genetics, neurologic, or metabolic conditions are more likely to experience a severe illness from COVID-19 infection (CDC, 2021). The symptoms of COVID-19 in children are similar to those in adults and can often look like other common illnesses such as colds, strep throat, or allergies. However, a rare but more serious condition can emerge in children with the virus called Kawasaki disease-like multisystem inflammatory syndrome (MIS-C). MIS-C in children "is a condition where different body parts can become inflamed, including the heart, lungs, kidneys, brain, skin, eyes, or gastrointestinal organs" (CDC, 2021, para 1). At present, it is not known why some children with COVID-19 are likely to have this severe reaction, while others do not. The COVID-19 mortality rate for children infected with the virus is extremely low, nationally about .01%, and children make up .06% of all COVID-19 deaths (AAP, 2021).
+
+### Adverse Childhood Experiences (ACES):
+
+COVID-19 has resulted in social isolation, parental job loss, school closures, and other stressors that increase the development of ACES or worsen their impact (Sanders, 2020). Children are especially susceptible to family stressors, such as job, food, and housing insecurity, which are linked to ACES. Bryant et al. (2020) reported the rise in child abuse and intimate partner violence, as family members were trapped with their abuser during the pandemic. Parental mental health issues and increased substance use have also been noted. Further, COVID-19 has especially affected low-income and ethnic minority children, who were already at greater risk for the development of ACES, placing them at increased risk for physical and mental health conditions. Both Sanders (2020) and Bryant et al. (2020) recommend that pediatric health care providers regularly assess for ACES, and address the short-term and long-term consequences on affected youth.
+
+## Early Childhood (References)
+
+Abuhatoum, S., & Howe, N. (2013). Power in sibling conflict during early and middle childhood. *Social Development, 22*, 738–754.
+
+Al-Haddad, B., Jacobsson, B., Chabra, S., Modzelewska, D., Olson, E...... Sengpiel, V. (2019). Long-term risk of neuropsychiatric disease after exposure to infection in utero. *JAMA Psychiatry, 76* (6), 594–602.
+
+American Academy of Pediatrics. (2021). *Children and COVID-19: State-level data report*. <https://services.aap.org/en/pages/2019-novel-coronavirus-covid-19-infections/children-and-covid-19-state-level-data-report/>.
+
+American Academy of Pediatrics. (2015). *Gender identity development in children*. <https://www.healthychildren.org/English/ages-stages/gradeschool/Pages/Gender-Identity-and-Gender-Confusion-In-Children.aspx>.
+
+American Academy of Pediatrics. (2016). *Media and young minds*. <https://pediatrics.aappublications.org/content/138/5/e20162591>.
+
+American Psychiatric Association. (2022). *Diagnostic and statistical manual of mental disorders* (5^th^ ed., text rev.). Author.
+
+American Psychological Association. (2019). *Immigration*. <https://www.apa.org/advocacy/immigration>.
+
+Ariès, P. (1962). *Centuries of childhood: A social history of family life*. Knopf.
+
+Armor, D. J. (2015). Head Start or false start. *USA Today Magazine*. <https://www.questia.com/magazine/1G1-429736352/head-start-or-false-start>
+
+Autism Genome Project Consortium. (2007). Mapping autism risk loci using genetic linkage and chromosomal rearrangements. *Nature Genetics, 39*, 319–328.
+
+Baio, J., Wiggins, L., Christensen, D., Maenner, M., ...... Dowling, N. (2018). Prevalence of autism spectrum disorder among children aged 8 years-autism and developmental disabilities monitoring network, 11 sites, United States, 2014. *MMWR Surveillance Summary, 67* (No. SS–6), 1–23. doi: <http://dx.doi.org/a0.15585/mmwr.ss6706a1External>.
+
+Bandura, A. (1997). *Self-efficacy: The exercise of control*. Freeman.
+
+Barshay, J. (2015). Report: Scant scientific evidence for Head Start programs' effectiveness. *U.S. News and World Report*. <http://www.usnews.com/news/articles/2015/08/03/report-scant-scientific-evidence-for-head-start-programs-effectiveness>.
+
+Baumrind, D. (1971). Current patterns of parental authority. *Developmental Psychology Monograph, 4*(1), part 2.
+
+Baumrind, D. (2013). Authoritative parenting revisited: History and current status. In R. E. Larzelere, A. Sheffield, & A. W. Harrist (Eds.). *Authoritative parenting: Synthesizing nurturance and discipline for optimal child development* (pp. 1134). American Psychological Association.
+
+Bem, S. L. (1981). Gender schema theory: A cognitive account of sex typing. *Psychological Review, 88*, 354–364.
+
+Berk, L. E. (2007). *Development through the life span* (4^th^ ed.). Allyn and Bacon.
+
+Berwid, O., Curko-Kera, E. A., Marks, D. J., & Halperin, J. M. (2005). Sustained attention and response inhibition in young children at risk for attention deficit hyperactivity disorder. *Journal of Child Psychology and Psychiatry, 46* (11), 1219–1229.
+
+Bialystok, E. (2011). Coordination of executive functions in monolingual and bilingual children. *Journal of Experimental Child Psychology, 110*, 461–468.
+
+Bialystok, E., Martin, M.M., & Viswanathan, M. (2005). Bilingualism across the lifespan: The rise and fall of inhibitory control. *International Journal of Bilingualism, 9*, 103–119.
+
+Bibok, M.B., Carpendale, J.I.M., & Muller, U. (2009). Parental scaffolding and the development of executive function. *New Directions for Child and Adolescent Development, 123*, 17–34.
+
+Bigler, R. S., & Liben, L. S. (2007). Developmental intergroup theory: Exploring and reducing children's social stereotyping and prejudice. *Current Directions in Psychological Science, 16*, 162–166.
+
+Birch, S., & Bloom, P. (2003). Children are cursed: An asymmetric bias in mental-state attribution. *Psychological Science, 14* (3), 283–286.
+
+Blackless, M., Charuvastra, A., Derryck, A., Fausto-Sterling, A., Lauzanne, K., & Lee, E. (2000). How sexually dimorphic are we? Review and synthesis. *American Journal of Human Biology, 12*, 151–166.
+
+Bonifacci, P., Giombini, L., Beloocchi, S., & Conteno, S. (2011). Speed of processing, anticipation, inhibition and working memory in bilinguals. *Developmental Science, 14*, 256–269.
+
+Boyse, K. & Fitgerald, K. (2010). *Toilet training*. University of Michigan Health System. \\href{<http://www.med.umich.edu/yourchild/topics/toilet.htm>.
+
+Brody, G. H., Stoneman, Z., & McCoy, J. K. (1994). Forecasting sibling relationships in early adolescence from child temperament and family processes in middle childhood. *Child development, 65*, 771–784.
+
+Brown, G.L., Mangelsdork, S.C., Agathen, J.M., & Ho, M. (2008). Young children's psychological selves: Convergence with maternal reports of child personality. *Social Development, 17*, 161–182.
+
+Bryant, D. J., Oo, M., & Damian, A. J. (2020). The rise of adverse childhood experiences during the COVID-19 pandemic. *Psychological Trauma: Theory, Research, Practice, and Policy, 12* (S1), S193–S194. <http://dx.doi.org/10.1037/tra0000711>.
+
+Bureau of Labor Statistics. (2019). *Employment characteristics of families–2018*. [https://www.bls.gov/news.release/pdf...pdf/famee.pdf](https://www.bls.gov/news.release/pdf/famee.pdf "https://www.bls.gov/news.release/pdf/famee.pdf").
+
+Bussey, K., & Bandura, A. (1999). Social cognitive theory of gender development and differentiation. *Psychological Review, 106* (4), 676–713.
+
+Byrd, R. (2002). *Report to the legislature on the principal findings from the epidemiology of autism in California: A comprehensive pilot study*. <http://www.dds.ca.gov/Autism/MindReport.cfm>.
+
+Camarota, S. A., & Zeigler, K. (2015). *One in five U. S. residents speaks foreign language at home*. <https://cis.org/sites/default/files/camarota-language-15.pdf>.
+
+Carroll, J. L. (2007). *Sexuality now: Embracing diversity* (2^nd^ ed.). Thomson.
+
+Centers for Disease Control and Prevention. (2000). *2000 CDC Growth Charts for the United States: Methods and Development*. <http://www.cdc.gov/nchs/data/series/sr_11/sr11_246.pdf>.
+
+Centers for Disease Control and Prevention. (2021). *COVID-19 in children and teens*. <https://www.cdc.gov/coronavirus/2019-%20ncov/daily-life-coping/children/symptoms.html#higher-risk>.
+
+Centers for Disease Control and Prevention. (2021). *Multisystem Inflammatory Syndrome (MIS-C)*. <https://www.cdc.gov/mis-c/>.
+
+Centers for Disease Control and Prevention. (2012). Prevalence of autism spectrum disorders, autism and developmental disabilities monitoring network, 14 sites, United States, 2008. *Morbidity and Mortality Weekly Report: Surveillance Summaries, 61* (3), 1–19. <http://www.cdc.gov/mmwr/pdf/ss/ss6103.pdf>.
+
+Centers for Disease Control and Prevention. (2015). *Nutrition and health of young people*. <http://www.cdc.gov/healthyschools/nutrition/facts.htm>.
+
+Centers for Disease Control and Prevention. (2019). *About adverse childhood experiences*. [https://www.cdc.gov/violenceprevention/childabuseandneglet/acestudy/aboutace.html](https://www.cdc.gov/violenceprevention/childabuseandneglect/acestudy/aboutace.html "https://www.cdc.gov/violenceprevention/childabuseandneglect/acestudy/aboutace.html").
+
+Chang, A., Sandhofer, C., & Brown, C. S. (2011). Gender biases in early number exposure to preschool-aged children. *Journal of Language and Social Psychology, 30* (4), 440–450.
+
+Chiong, C., & Shuler, C. (2010). *Learning: Is there an app for that? Investigations of young children's usage and learning with mobile devices and apps*. New York: The Joan Ganz Cooney Center at Sesame Workshop. <https://clalliance.org/wp-content/uploads/files/learningapps_final_110410.pdf>
+
+Christakis, D.A. (2009). The effects of infant media usage: What do we know and what should we learn? *Acta Paediatrica, 98*, 8–16.
+
+Clark, J. (1994). Motor development. In V. S. Ramachandran (Ed.), *Encyclopedia of human behavior* (pp. 245–255). Academic Press.
+
+Colwell, M.J., & Lindsey, E.W. (2003). Teacher-child interactions and preschool children's perceptions of self and peers. *Early Childhood Development & Care, 173*, 249–258.
+
+Coté, C. A., & Golbeck, S. (2007). Preschoolers' feature placement on own and others' person drawings. *International Journal of Early Years Education, 15* (3), 231–243.
+
+Courage, M.L., Murphy, A.N., & Goulding, S. (2010). When the television is on: The impact of infant-directed video on 6- and 18-month-olds' attention during toy play and on parent-infant interaction. *Infant Behavior and Development, 33*, 176–188.
+
+Crain, W. (2005). *Theories of development concepts and applications* (5^th^ ed.). Pearson.
+
+De Houwer, A. (2007). Parental language input patterns and children's bilingual use. *Applied Psycholinguistics, 28*, 411–422.
+
+DeStefano, F., Price, C. S., & Weintraub, E. S. (2013). Increasing exposures to antibody-stimulating proteins and polysaccharides in vaccines is not associated with risk of autism. *The Journal of Pediatrics, 163*, 561–567.
+
+Dougherty, D.M., Marsh, D.M., Mathias, C.W., & Swann, A.C. (2005). The conceptualization of impulsivity: Bipolar disorder and substance abuse. *Psychiatric Times, 22* (8), 32–35.
+
+Dunn, J., & Munn, P. (1987). Development of justification in disputes with mother and sibling. *Developmental Psychology, 23*, 791–798.
+
+Dyer, S., & Moneta, G. B. (2006). Frequency of parallel, associative, and cooperative play in British children of different socioeconomic status. *Social Behavior and Personality, 34* (5), 587–592.
+
+Economist Data Team. (2017). *Parents now spend twice as much time with their children as 50 years ago*. <https://www.economist.com/graphic-detail/2017/11/27/parents-now-spend-twice-as-much-time-with-their-children-as-50-years-ago>
+
+Epley, N., Morewedge, C. K., & Keysar, B. (2004). Perspective taking in children and adults: Equivalent egocentrism but differential correction. *Journal of Experimental Social Psychology, 40*, 760–768.
+
+Erikson, E. (1982). *The life cycle completed*. Norton & Company.
+
+Evans, D. W., Gray, F. L., & Leckman, J. F. (1999). The rituals, fears and phobias of young children: Insights from development, psychopathology and neurobiology. *Child Psychiatry and Human Development, 29* (4), 261–276. doi:10.1023/A:1021392931450.
+
+Evans, D. W. & Leckman, J. F. (2015). Origins of obsessive-compulsive disorder: Developmental and evolutionary perspectives. In D. Cicchetti and D. J. Cohen (Eds.), *Developmental psychopathology* (2^nd^ ed.). Wiley & Sons. doi: 10.1002/9780470939406.ch10.
+
+Fay-Stammbach, T., Hawes, D. J., & Meredith, P. (2014). Parenting influences on executive function in early childhood: A review. *Child Development Perspectives, 8* (4), 258–264.
+
+Felitti, V. J., Anda, R.F., Nordenberg, D., Williamson, D. F., Spitz, A., Edwards, V., Koss, M. P., & Marks, J. S. (1998). Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults: The Adverse Childhood Experiences (ACE) Study. *American Journal of Preventive Medicine, 14* (4), 245–258. doi:10.1016/S0749-3797(98)00017-8.
+
+Finkelhorn, D., Hotaling, G., Lewis, I. A., & Smith, C. (1990). Sexual abuse in a national survey of adult men and women: Prevalence, characteristics, and risk factors. *Child Abuse and Neglect, 14* (1), 19–28.
+
+Frank, G., Plunkett, S. W., & Otten, M. P. (2010). Perceived parenting, self-esteem, and general self-efficacy of Iranian American adolescents. *Journal of Child & Family Studies, 19*, 738–746.
+
+Galotti, K. M. (2018). *Cognitive psychology: In and out of the laboratory* (6^th^ Ed.). Sage Publications.
+
+Garrett, B. (2015). *Brain and behavior: An introduction to biological psychology* (4^th^ Ed.). Sage Publications.
+
+Gauthier, J., Siddiqui, T. J., Huashan, P., Yokomaku, D., Hamdan, F. F., Champagne, N., . . Rouleau, G.A. (2011). Truncating mutations in NRXN2 and NRXN1 in autism spectrum disorders and schizophrenia. *Human Genetics, 130*, 563–573.
+
+Gecas, V., & Seff, M. (1991). Families and adolescents. In A. Booth (Ed.), *Contemporary families: Looking forward, looking back.* National Council on Family Relations.
+
+Gentile, D.A., & Walsh, D.A. (2002). A normative study of family media habits. *Applied Developmental Psychology, 23*, 157–178.
+
+Gernhardt, A., Rubeling, H., & Keller, H. (2015). Cultural perspectives on children's tadpole drawings: At the interface between representation and production. *Frontiers in Psychology, 6*, Article 812. doi: 0.3389/fpsyg.2015.00812.
+
+Gershoff, E. T. (2008). *Report on physical punishment in the United States: What research tell us about its effects on children*. Center for Effective Discipline.
+
+Glass, E., Sachse, S., & von Suchodoletz, W. (2008). Development of auditory sensory memory from 2 to 6 years: An MMN study. *Journal of Neural Transmission, 115* (8), 1221–1229.doi:10.1007/s00702-008-0088-6.
+
+Gleason, T. R. (2002). Social provisions of real and imaginary relationships in early childhood. *Developmental Psychology, 38*, 979–992.
+
+Gleason, T. R., & Hohmann, L. M. (2006). Concepts of real and imaginary friendships in early childhood. *Social Development, 15*, 128–144.
+
+Gleason, T. R., Sebanc, A. M., & Hartup, W. W. (2000). Imaginary companions of preschool children. *Developmental Psychology, 36* (4), 419–428.
+
+Gomes, G. Sussman, E., Ritter, W., Kurtzberg, D., Vaughan, H. D. Jr., & Cowen, N. (1999). Electrophysiological evidence of development changes in the duration of auditory sensory memory. *Developmental Psychology, 35*, 294–302.
+
+Goodvin, R., Meyer, S. Thompson, R.A., & Hayes, R. (2008). Self-understanding in early childhood: Associations with child attachment security and maternal negative affect. *Attachment & Human Development, 10* (4), 433–450.
+
+Gopnik, A., & Wellman, H.M. (2012). Reconstructing constructivism: Causal models, Bayesian learning mechanisms, and the theory theory. *Psychological Bulletin, 138* (6), 1085–1108.
+
+Guy, J., Rogers, M., & Cornish, K. (2013). Age-related changes in visual and auditory sustained attention in preschool-aged children. *Child Neuropsychology, 19* (6), 601–614. <http://dx.doi.org/10.1080/09297049.2012.710321>.
+
+Hammer C. S., Hoff, E., Uchikosh1, Y., Gillanders, C., Castro, D., & Sandilos, L. E. (2014). The language literacy development of young dual language learners: A critical review. *Early Child Research Quarterly, 29* (4), 715–733.
+
+Harter, S., & Pike, R. (1984). The pictorial scale of Perceived Competence and Social Acceptance for Young Children. *Child Development, 55*, 1969–1982.
+
+Harvard University. (2019). *Center on the developing child: Toxic stress*. <https://developingchild.harvard.edu/science/key-concepts/toxic-stress/>.
+
+Herrmann, E., Misch, A., Hernandez-Lloreda, V., & Tomasello, M. (2015). Uniquely human self-control begins at school age. *Developmental Science, 18* (6), 979–993. doi:10.1111/desc.12272.
+
+Herrmann, E., & Tomasello, M. (2015). Focusing and shifting attention in human children (homosapiens) and chimpanzees (pan troglodytes). *Journal of Comparative Psychology, 129* (3), 268–274. <http://dx.doi.org/10.1037/a0039384>.
+
+Hoff, E. (2018). Bilingual development in children of immigrant families. *Child Development Perspectives, 12* (2), 80–86.
+
+Howe, N., Rinaldi, C. M., Jennings, M., & Petrakos, H. (2002). "No! The lambs can stay out because they got cozies": Constructive and destructive sibling conflict, pretend play, and social understanding. *Child Development, 73*, 1406–1473.
+
+Hughes, V. (2007). Mercury rising. *Nature Medicine, 13*, 896–897.
+
+Imai, M., Li, L., Haryu, E., Hirsh-Pasek, K., Golinkoff, R. M., & Shigematsu, J. (2008). Novel noun and verb learning in Chinese, English, and Japanese children: Universality and language-specificity in novel noun and verb learning. *Child Development, 79*, 979–1000.
+
+Jarne, P., & Auld, J. R. (2006). Animals mix it up too: The distribution of self-fertilization among hermaphroditic animals. *Evolution, 60*, 1816–1824.
+
+Jones, P.R., Moore, D.R., & Amitay, S. (2015). Development of auditory selective attention: Why children struggle to hear in noisy environments. *Developmental Psychology, 51* (3), 353–369.<http://dx.doi.org/10.1037/a0038570>.
+
+Kalat, J. W. (2016). *Biological Psychology* (12^th^ Ed.). Cengage.
+
+Kaushanskaya, M., Gross, M., & Buac, M. (2014). Effects of classroom bilingualism on task-shifting, verbal memory, and word learning in children. *Developmental Science, 17* (4), 564–583.
+
+Kellogg, R. (1969). *Handbook for Rhoda Kellogg: Child art collection*. NCR/Microcard Editions.
+
+Kemple, K.M., (1995). Shyness and self-esteem in early childhood. *Journal of Humanistic Education and Development, 33* (4), 173–182.
+
+Kimmel, M. S. (2008). The gendered society (3^rd^ ed.). Oxford University Press.
+
+Kinney, D. K., Barch, D. H., Chayka, B., Napoleon, S., & Munir, K. M. (2009). Environmental risk factors for autism: Do they help or cause de novo genetic mutations that contribute to the disorder? *Medical Hypotheses, 74*, 102-–106.
+
+Kirkorian, H.L., Choi, K., & Pempek, T.A. (2016). Toddlers' word learning from contingent and noncontingent video on touch screens. *Child Development, 87* (2), 405–413.
+
+Kirkorian, H.L., Pempek, T.A., & Murphy, L.A. (2009). The impact of background television on parent-child interaction. *Child Development, 80*, 1350–1359.
+
+Knorr, C. (2017). Gender stereotypes are messing with your kid. <https://www.commonsensemedia.org/blog/gender-stereotypes-are-messing-with-your-kid>.
+
+Kohn, M. L. (1977). *Class and conformity*. (2^nd^ ed.). University of Chicago Press.
+
+Kolb, B. & Whishaw, I. Q. (2011). An introduction to brain and behavior (3^rd^ ed.). Worth Publishers.
+
+Kramer, L., & Gottman, J. M. (1992). Becoming a sibling: "With a little help from my friends.” *Developmental Psychology, 28*, 685–699.
+
+Lenroot, R. K., & Giedd, J. N. (2006). Brain development in children and adolescents: Insights from anatomical magnetic resonance imaging. *Neuroscience and Biobehavioral Reviews, 30*, 718–729.
+
+Maccoby, E., & Jacklin, C. (1987). Gender segregation in childhood. *Advances in Child Development and Behavior, 20*, 239–287.
+
+MacKenzie, M. J., Nicklas, E., Waldfogel, J., & Brooks-Gunn, J. (2013). Spanking and child development across the first decade of life. *Pediatrics, 132* (5), e1118–e1125.
+
+Madigan, S., Browne, D., Racine, N., Mori, C., & Tough, S. (2019). Association between screen time and children's performance on a developmental screening test. *JAMA Pediatrics, 173* (3), 244–250.
+
+Manosevitz, M., Prentice, N. M., & Wilson, F. (1973). Individual and family correlates of imaginary companions in preschool children. *Developmental Psychology, 8*, 72–79.
+
+Martinson, F. M. (1981). Eroticism in infancy and childhood. In L. L. Constantine & F. M. Martinson (Eds.), *Children and sex: New findings, new perspectives*. (pp. 23–35). Little, Brown.
+
+Masih, V. (1978). Imaginary play companions of children. In R. Weizman, R. Brown, P. Levinson, & P. Taylor (Eds.). *Piagetian theory and the helping profession* (pp. 136–144). University of Southern California Press.
+
+Mauro, J. (1991). *The friend that only I can see: A longitudinal investigation of children's imaginary companions*. Dissertation, University of Oregon.
+
+Mayo Clinic Staff. (2016a). *Nutrition for kids: Guidelines for a healthy diet*. <http://www.mayoclinic.org/healthy-lifestyle/childrens-health/in-depth/nutrition-for-kids/art-20049335>.
+
+Mayo Clinic Staff. (2016b). *Potty training: How to get the job done*. <http://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/indepth/potty-training/art-20045230>.
+
+McAlister, A. R., & Peterson, C. C. (2007). A longitudinal study of siblings and theory of mind development. *Cognitive Development, 22*, 258–270.
+
+Meek, S. E., Lemery-Chalfant, K., Jahromi, L. D., & Valiente, C. (2013). A review of gene-environment correlations and their implications for autism: A conceptual model. *Psychological Review, 120*, 497–521.
+
+Merrick, M. T., Ford, D. C., Ports, K. A., & Guinn, A. S. (2018). Prevalence of adverse childhood experiences from the 2011–2014 Behavioral Risk Factor Surveillance System in 23 States. *Early JAMA Pediatrics, 172* (11), 1038–1044.
+
+Meyers-Sutton, C. (2005). *Multiple voices: An introduction to bilingualism*. Blackwell Publishers.
+
+Middlebrooks, J. S., & Audage, N. C. (2008). *The effects of childhood stress on health across the lifespan*. United States, Center for Disease Control, National Center for Injury Prevention and Control.
+
+Mischel, W., Ayduk, O., Berman, M. G., Casey, B. J., Gotlib, I. H., Jonides, J., & ... Shoda, Y. (2011). 'Willpower' over the life span: Decomposing self-regulation. *Social Cognitive & Affective Neuroscience, 6* (2), 252–256. doi:10.1093/scan/nsq081.
+
+Mischel, W., Ebbesen, E. B., & Zeiss, A. R. (1972). Cognitive and attentional mechanisms in delay of gratification. *Journal of Personality and Social Psychology, 21*, 204–218.
+
+Morra, S., Gobbo, C., Marini, Z., & Sheese, R. (2008). *Cognitive development: Neo-Piagetian perspectives*. Lawrence Erlbaum Associates.
+
+National Association for the Education of Young Children. (2016). The 10 NAEYC program standards. <http://families.naeyc.org/accredited-article/10-naeyc-program-standards>.
+
+National Institute of Child Health and Human Development. (2006). *The NICHD study of early child care (NIH Pub. No. 05-4318)*. Government Printing Office.
+
+Nelson, K., & Fivush, R. (2004). The emergence of autobiographical memory: A social cultural developmental theory. *Psychological Review, 111* (2), 468–511.
+
+Nelson, K., & Ross, G. (1980). The generalities and specifics of long-term memory in infants and young children. In M. Perlmutter (Ed.), *Children's memory: New directions in child development* (Vol. 10, pp. 87–101). Jossey-Bass.
+
+Nielsen Company. (2009). *Television audience 2008*–*2009*. <http://blog.nielsen.com/nielsenwire/wp-content/uploads/2009/07/tva_2008_071709.pdf%C2%A0>
+
+Novella, S. (2008). *The increase in autism diagnoses: Two hypotheses* \[Web log post\]. <http://www.sciencebasedmedicine.org/the-increase-in-autism-diagnoses-two-hypotheses/>
+
+Okami, P., Olmstead, R., & Abramson, P. R. (1997). Sexual experiences in early childhood: 18-year longitudinal data from UCLA Family Lifestyles Project. *Journal of Sex Research, 34* (4), 339–347.
+
+Olson, K. R., & Gülgöz, S. (2018). Early findings from the TransYouth Project: Gender development in transgender children. *Child Development Perspectives, 12* (2), 93–97.
+
+Parten, M. B. (1932). Social participation among preschool children. *Journal of Abnormal and Social Psychology*, *27*, 243–269.
+
+Perner, J., Ruffman, T., \\& Leekam, S. R. (1994). Theory of mind is contagious: You catch from your sibs. *Child Development, 65*, 1228–1238.
+
+Pike, A., Coldwell, J., & Dunn, J. F. (2005). Sibling relationships in early/middle childhood: Links with individual adjustment. *Journal of Family Psychology, 19* (4), 523–532.
+
+Place, S., & Hoff, E. (2016). Effects and non-effects of input in bilingual environments on dual language skills in 2 1/2-year-olds. *Bilingualism: Language and Cognition, 19*, 1023–1041.
+
+Porporino, M., Shore, D.I., Iarocci, G., & Burack, J.A. (2004). A developmental change in selective attention and global form perception. *International Journal of Behavioral Development, 28* (4), 358–364. doi:10.1080/01650250444000063.
+
+Posner, M.I., & Rothbart, M.K. (2007). Research on attention networks as a model for the integration of psychological science. *Annual Review in Psychology, 58*, 1–23.
+
+Price-Williams, D.R., Gordon, W., & Ramirez, M. (1969). Skill and conservation: A study of pottery making children. *Developmental Psychology, 1*, 769.
+
+Ram, A., & Ross, H. (2008). “We got to figure it out”: Information-sharing and siblings' negotiations of conflicts of interest. *Social Development, 17*, 512–527.
+
+Rice, F. P. (1997). *Human development: A life-span approach*. Prentice Hall.
+
+Rideout, V.J., & Hamel E. (2006). The media family: Electronic media in the lives of infants, toddlers, preschoolers and their parents. <http://www.kff.org/entmedia/upload/7500.pdf%20%C2%A0>.
+
+Robinson, T.N., Wilde, M.L., & Navracruz, L.C. (2001). Effects of reducing children's television and video game use on aggressive behavior: A randomized controlled trial. *Archives of Pediatrics and Adolescent Medicine, 155*, 17–23.
+
+Rothbart, M.K., & Rueda, M.R. (2005). The development of effortful control. In U. Mayr, E. Awh, \\& S.W. Keele (Eds.), *Developing individuality in the human brain: A festschrift honoring Michael I. Posner* (pp. 167–188). American Psychological Association.
+
+Ruble, D.N., Boggiano, A.K., Feldman, N.S., & Loeble, J.H. (1980). Developmental analysis of the role of social comparison in self-evaluation. *Developmental Psychology, 16*, 105–115.
+
+Ruble, D. N., Martin, C., & Berenbaum, S. (2006). Gender development. In W. Damon & R. M. Lerner (Series Eds.) & N. Eisenberg (Vol. Ed.), *Handbook of child psychology: Vol. 3. Social, emotional, and personality development* (6^th^ ed., pp. 858–932). Wiley.
+
+Russo, F. (2016). Debate growing about how to meet the urgent needs of transgender kids. *Scientific American Mind, 27* (1), 27–35.
+
+Ryan, C. (2013). Language use in the United States: 2011. <https://www2.census.gov/library/publications/2013/acs/acs-22/acs-22.pdf>
+
+Sanders, L. M. (2020). Is COVID-19 an adverse childhood experience (ACE): Implications for screening for primary care. *The Journal of Pediatrics, 222*, 174.
+
+Save the Children. (2019). *Child protection*. <https://www.savethechildren.net/what-we-do/child-protection>.
+
+Schmidt, M.E., Pempek, T.A., & Kirkorian, H.L. (2008). The effects of background television on the toy play behavior of very young children. *Child Development, 79*, 1137–1151.
+
+Schneider, W., Kron-Sperl, V., & Hunnerkopf, M. (2009). The development of young children's memory strategies: Evidence from the Würzburg longitudinal memory study. *European Journal of Developmental Psychology, 6* (1), 70–99.
+
+Schwartz, I. M. (1999). Sexual activity prior to coitus initiation: A comparison between males and females. *Archives of Sexual Behavior, 28* (1), 63–69.
+
+Shahaeian, A., Peterson, C. C., Slaughter, V., \\& Wellman, H. M. (2011). Culture and the sequence of steps in theory of mind development. *Developmental Psychology, 47* (5), 1239–1247.
+
+Singer, D., & Singer, J. (1990). *The house of make-believe*. Harvard University Press.
+
+Smith, B. L. (2012). The case against spanking. *Monitor on Psychology, 43* (4), 60.
+
+Society for Research in Child Development. (2018). *The Science is clear: Separating families has long-term damaging psychological and health consequences for children, families, and communities*. <https://www.srcd.org/policy-media/statements-evidence>.
+
+Spears Brown, C., & Jewell, J. A. (2018). *Gender*. <https://nobaproject.com/modules/gender>.
+
+Steele, B.F. (1986). Notes on the lasting effects of early child abuse throughout the life cycle. *Child Abuse & Neglect 10* (3), 283-291.
+
+Tamana, S.K., Ezeugwu, E., Chikuma, J., Lefebvre, D.L., Azad, M.B., Moraes, T.J.,.. & Mandhane, P. J. (2019). Screen-time is associated with inattention problems in preschoolers: Results from the CHILD birth cohort study. *PLOS ONE, 14* (4), e0213995. <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0213995>.
+
+Thomas, R. M. (1979). *Comparing theories of child development*. Wadsworth.
+
+Traverso, L., Viterbori, P., & Usai, M. C. (2015). Improving executive function in childhood: Evaluation of a training intervention for 5-year-old children. *Frontiers in Psychology, 6*, 1–14. doi:10.3389/fpsyg.2015.00525.
+
+United Nations. (2014). *Committee on the rights of the child*. <http://tbinternet.ohchr.org/Treaties/CRC/Shared%20Documents/VAT/CRC_C_VAT_CO_2_16302_E.pdf>.
+
+United States Department of Health and Human Services. (2019). *Child Maltreatment 2017*. <https://www.acf.hhs.gov/cb/resource/child-maltreatment-2017>.
+
+United States Department of Health and Human Services. (2015). *Head Start program facts fiscal year 2013*. <https://eclkc.ohs.acf.hhs.gov/hslc/data/factsheets/docs/hs-program-fact-sheet-2013.pdf>.
+
+Valente, S. M. (2005). Sexual abuse of boys. *Journal of Child and Adolescent Psychiatric Nursing, 18*, 10–16. doi:10.1111/j.1744-6171.2005.00005.X.
+
+Vygotsky, L. S. (1962). *Thought and language*. M.I.T. Press, Massachusetts Institute of Technology.
+
+Wellman, H.M., Cross, D., & Watson, J. (2001). Meta-analysis of theory of mind development: The truth about false belief. *Child Development, 72* (3), 655–684.
+
+Wellman, H. M., Fang, F., Liu, D., Zhu, L, & Liu, L. (2006). Scaling theory of mind understandings in Chinese children. *Psychological Science, 17*, 1075–1081.
+
+White House Press Secretary. (2014). *Fact Sheet: Invest in US: The White House Summit on Early Childhood Education*. <https://www.whitehouse.gov/the-press-office/2014/12/10/fact-sheet-invest-us-white-house-summit-early-childhood-education>.
+
+Wimmer, H., & Perner, J. (1983). Beliefs about beliefs: Representation and constraining function of wrong beliefs in young children's understanding of deception. *Cognition, 13*, 103–128.
+
+Wing, L., Gould, J., & Gillberg, C. (2011). Autism spectrum disorders in the DSM-5: Better or worse than the DSM IV? *Research in Developmental Disabilities, 32*, 768–773.
+
+Wu, X., Tao, S., Rutayisirel, E., Chen, Y., Huang, K., & Tao, F. (2017). The relationship between screen time, nighttime sleep duration, and behavioural problems in preschool children in China. *European Child and Adolescent Psychiatry, 26*, 541–548.
+
+Yoo, J., & Kaushanskaya, M. (2012). Phonological memory in bilinguals and monolinguals. *Memory & Cognition, 40*, 1314–1330.
+
+Zachry, A. (2013). *6 Types of Preschool Programs*. <http://www.parents.com/toddlers-preschoolers/starting%20-preschool/preparing/types-of-preschool-programs/>.

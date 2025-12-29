@@ -13,7 +13,7 @@ book:
   author: "Martha Lally and Suzanne Valentine-French"
   date: today
   cover-image: lifespan_development_cover_4e_2022.png
-  repo-url: https://github.com/nathalieyuen/lifespan_development_4e_2022
+  repo-url: https://github.com/nathalieyuen/lifespan-development-4e-2022
   page-footer:
     left: |
       Lifespan Development was written by Martha Lally and Suzanne Valentine-French. Quarto adaptation by C. Nathalie Yuen.

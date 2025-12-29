@@ -1,0 +1,48 @@
+# Preface {.unnumbered}
+
+Lifespan Development: A Psychological Perspective 4e
+
+Fourth Edition
+
+By [Martha Lally and Suzanne Valentine-French](https://www.clcillinois.edu/programs/bssdv/psychology/faculty) at [College of Lake County](http://www.clcillinois.edu/programs/psy) (Published 2022)
+
+This textbook can be found at: <https://socialsci.libretexts.org/Bookshelves/Human_Development/Lifespan_Development%3A_A_Psychological_Perspective_4e_(Lally_and_Valentine-French)>
+
+![CC BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png){#fig-cc-license fig-align="left" width="20%"}
+
+Publication is under the following license: Creative Commons Attribution-Noncommercial-Share Alike 4.0 International. To view a copy of this license, visit [http:/](http://creativecommons.org/licenses/by-nc-sa/3.0/){.uri}<https://creativecommons.org/licenses/by-nc-sa/4.0/> or send a letter to Creative Commons, PO Box 1866, Mountain View, California, 94042, USA.
+
+Quarto adaptation by C. Nathalie Yuen.
+
+## Changes Made in This Derivative
+
+There were minor changes made in this adaptation from [Lifespan Development: A Psychological Perspective, Fourth Edition](https://socialsci.libretexts.org/Bookshelves/Human_Development/Lifespan_Development%3A_A_Psychological_Perspective_4e_(Lally_and_Valentine-French)) by Martha Lally and Suzanne Valentine-French. This adaptation is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)). Chapter, figure, and table numbers refer to the original book.
+
+Those changes include:
+
+-   Updated citations for sources, including images, figures, and tables.
+-   Changed figures and tables - *For some of the images where the original source could not be located, images were either changed or removed.*
+    -   Chapter 1
+        -   Figure removed: 1.1.1
+    -   Chapter 3
+        -   Figure changed: 3.5.1, 3.6.2, 3.6.3, 3.8.3, 3.9.2
+        -   Figure removed: 3.4.1, 3.5.2, 3.6.1, 3.8.1
+    -   Chapter 4
+        -   Figure changed: 4.3.1
+        -   Figure removed: 4.1.1, 4.17.1
+    -   Chapter 5
+        -   Figure changed: 5.8.1
+    -   Chapter 6
+        -   Figure removed: 6.5.2
+    -   Chapter 7
+        -   Figure changed: 7.6.2
+        -   Changed location of Table 7.8.1.
+        -   Changed Table 7.12.3 to order countries by year.
+    -   Chapter 8
+        -   Figure removed: 8.5.4, 8.11.4, 8.12.1
+    -   Chpater 9
+        -   Figure changed: 9.3.3, 9.5.5, 9.8.2, 9.10.2, 9.12.4
+        -   Figure removed: 9.2.7, 9.10.3, 9.21.1
+    -   Chapter 10
+        -   Figure changed: 10.2.12
+-   Made minor edits for capitalization, punctuation.
